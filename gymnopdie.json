@@ -1,1408 +1,1877 @@
 [{
     "beat": 0,
-    "note": "2G"
+    "note": "2G",
+    "timestamp": 0.0
 }, {
     "beat": 1,
-    "note": "3B"
+    "note": "3B",
+    "timestamp": 0.888889
 }, {
     "beat": 1,
-    "note": "3A"
+    "note": "3A",
+    "timestamp": 0.888889
 }, {
     "beat": 2,
-    "note": "4D"
+    "note": "4D",
+    "timestamp": 1.777778
 }, {
     "beat": 3,
-    "note": "4D"
+    "note": "4D",
+    "timestamp": 2.666667
 }, {
     "beat": 3,
-    "note": "2D"
+    "note": "2D",
+    "timestamp": 2.666667
 }, {
     "beat": 3,
-    "note": "3B"
+    "note": "3B",
+    "timestamp": 2.666667
 }, {
     "beat": 4,
-    "note": "4D"
+    "note": "4D",
+    "timestamp": 3.555556
 }, {
     "beat": 5,
-    "note": "4F"
+    "note": "4F",
+    "timestamp": 4.444444
 }, {
     "beat": 5,
-    "note": "4G"
+    "note": "4G",
+    "timestamp": 4.444444
 }, {
     "beat": 6,
-    "note": "2G"
+    "note": "2G",
+    "timestamp": 5.333333
 }, {
     "beat": 7,
-    "note": "3A"
+    "note": "3A",
+    "timestamp": 6.222222
 }, {
     "beat": 8,
-    "note": "3A"
+    "note": "3A",
+    "timestamp": 7.111111
 }, {
     "beat": 8,
-    "note": "4D"
+    "note": "4D",
+    "timestamp": 7.111111
 }, {
     "beat": 9,
-    "note": "2D"
+    "note": "2D",
+    "timestamp": 8.0
 }, {
     "beat": 9,
-    "note": "3B"
+    "note": "3B",
+    "timestamp": 8.0
 }, {
     "beat": 10,
-    "note": "4C"
+    "note": "4C",
+    "timestamp": 8.888889
 }, {
     "beat": 10,
-    "note": "4D"
+    "note": "4D",
+    "timestamp": 8.888889
 }, {
     "beat": 11,
-    "note": "4G"
+    "note": "4G",
+    "timestamp": 9.777778
 }, {
     "beat": 12,
-    "note": "4F"
+    "note": "4F",
+    "timestamp": 10.666667
 }, {
     "beat": 12,
-    "note": "2G"
+    "note": "2G",
+    "timestamp": 10.666667
 }, {
     "beat": 13,
-    "note": "5F"
+    "note": "5F",
+    "timestamp": 11.555556
 }, {
     "beat": 14,
-    "note": "5A"
+    "note": "5A",
+    "timestamp": 12.444444
 }, {
     "beat": 15,
-    "note": "3B"
+    "note": "3B",
+    "timestamp": 13.333333
 }, {
     "beat": 15,
-    "note": "5G"
+    "note": "5G",
+    "timestamp": 13.333333
 }, {
     "beat": 15,
-    "note": "2D"
+    "note": "2D",
+    "timestamp": 13.333333
 }, {
     "beat": 16,
-    "note": "5F"
+    "note": "5F",
+    "timestamp": 14.222222
 }, {
     "beat": 17,
-    "note": "4D"
+    "note": "4D",
+    "timestamp": 15.111111
 }, {
     "beat": 17,
-    "note": "5C"
+    "note": "5C",
+    "timestamp": 15.111111
 }, {
     "beat": 18,
-    "note": "4B"
+    "note": "4B",
+    "timestamp": 16.0
 }, {
     "beat": 18,
-    "note": "2G"
+    "note": "2G",
+    "timestamp": 16.0
 }, {
     "beat": 19,
-    "note": "4F"
+    "note": "4F",
+    "timestamp": 16.888889
 }, {
     "beat": 19,
-    "note": "5C"
+    "note": "5C",
+    "timestamp": 16.888889
 }, {
     "beat": 20,
-    "note": "5D"
+    "note": "5D",
+    "timestamp": 17.777778
 }, {
     "beat": 21,
-    "note": "4A"
+    "note": "4A",
+    "timestamp": 18.666667
 }, {
     "beat": 21,
-    "note": "2D"
+    "note": "2D",
+    "timestamp": 18.666667
 }, {
     "beat": 22,
-    "note": "3A"
+    "note": "3A",
+    "timestamp": 19.555556
 }, {
     "beat": 24,
-    "note": "4C"
+    "note": "4C",
+    "timestamp": 21.333333
 }, {
     "beat": 24,
-    "note": "4F"
+    "note": "4F",
+    "timestamp": 21.333333
 }, {
     "beat": 24,
-    "note": "2G"
+    "note": "2G",
+    "timestamp": 21.333333
 }, {
     "beat": 26,
-    "note": "4F"
+    "note": "4F",
+    "timestamp": 23.111111
 }, {
     "beat": 27,
-    "note": "4F"
+    "note": "4F",
+    "timestamp": 24.0
 }, {
     "beat": 27,
-    "note": "2D"
+    "note": "2D",
+    "timestamp": 24.0
 }, {
     "beat": 29,
-    "note": "3B"
+    "note": "3B",
+    "timestamp": 25.777778
 }, {
     "beat": 30,
-    "note": "4F"
+    "note": "4F",
+    "timestamp": 26.666667
 }, {
     "beat": 30,
-    "note": "2G"
+    "note": "2G",
+    "timestamp": 26.666667
 }, {
     "beat": 31,
-    "note": "4D"
+    "note": "4D",
+    "timestamp": 27.555556
 }, {
     "beat": 33,
-    "note": "4F"
+    "note": "4F",
+    "timestamp": 29.333333
 }, {
     "beat": 33,
-    "note": "4F"
+    "note": "4F",
+    "timestamp": 29.333333
 }, {
     "beat": 33,
-    "note": "2D"
+    "note": "2D",
+    "timestamp": 29.333333
 }, {
     "beat": 36,
-    "note": "3A"
+    "note": "3A",
+    "timestamp": 32.0
 }, {
     "beat": 36,
-    "note": "2G"
+    "note": "2G",
+    "timestamp": 32.0
 }, {
     "beat": 37,
-    "note": "5F"
+    "note": "5F",
+    "timestamp": 32.888889
 }, {
     "beat": 38,
-    "note": "4C"
+    "note": "4C",
+    "timestamp": 33.777778
 }, {
     "beat": 38,
-    "note": "5A"
+    "note": "5A",
+    "timestamp": 33.777778
 }, {
     "beat": 39,
-    "note": "5G"
+    "note": "5G",
+    "timestamp": 34.666667
 }, {
     "beat": 39,
-    "note": "2D"
+    "note": "2D",
+    "timestamp": 34.666667
 }, {
     "beat": 40,
-    "note": "4F"
+    "note": "4F",
+    "timestamp": 35.555556
 }, {
     "beat": 40,
-    "note": "5F"
+    "note": "5F",
+    "timestamp": 35.555556
 }, {
     "beat": 41,
-    "note": "5C"
+    "note": "5C",
+    "timestamp": 36.444444
 }, {
     "beat": 42,
-    "note": "4B"
+    "note": "4B",
+    "timestamp": 37.333333
 }, {
     "beat": 42,
-    "note": "2G"
+    "note": "2G",
+    "timestamp": 37.333333
 }, {
     "beat": 43,
-    "note": "3B"
+    "note": "3B",
+    "timestamp": 38.222222
 }, {
     "beat": 43,
-    "note": "5C"
+    "note": "5C",
+    "timestamp": 38.222222
 }, {
     "beat": 44,
-    "note": "5D"
+    "note": "5D",
+    "timestamp": 39.111111
 }, {
     "beat": 45,
-    "note": "4D"
+    "note": "4D",
+    "timestamp": 40.0
 }, {
     "beat": 45,
-    "note": "4A"
+    "note": "4A",
+    "timestamp": 40.0
 }, {
     "beat": 45,
-    "note": "2D"
+    "note": "2D",
+    "timestamp": 40.0
 }, {
     "beat": 47,
-    "note": "4F"
+    "note": "4F",
+    "timestamp": 41.777778
 }, {
     "beat": 48,
-    "note": "5C"
+    "note": "5C",
+    "timestamp": 42.666667
 }, {
     "beat": 48,
-    "note": "2F"
+    "note": "2F",
+    "timestamp": 42.666667
 }, {
     "beat": 50,
-    "note": "3A"
+    "note": "3A",
+    "timestamp": 44.444444
 }, {
     "beat": 51,
-    "note": "5F"
+    "note": "5F",
+    "timestamp": 45.333333
 }, {
     "beat": 51,
-    "note": "1B"
+    "note": "1B",
+    "timestamp": 45.333333
 }, {
     "beat": 52,
-    "note": "4C"
+    "note": "4C",
+    "timestamp": 46.222222
 }, {
     "beat": 54,
-    "note": "4F"
+    "note": "4F",
+    "timestamp": 48.0
 }, {
     "beat": 54,
-    "note": "4E"
+    "note": "4E",
+    "timestamp": 48.0
 }, {
     "beat": 54,
-    "note": "2E"
+    "note": "2E",
+    "timestamp": 48.0
 }, {
     "beat": 57,
-    "note": "3B"
+    "note": "3B",
+    "timestamp": 50.666667
 }, {
     "beat": 57,
-    "note": "4E"
+    "note": "4E",
+    "timestamp": 50.666667
 }, {
     "beat": 57,
-    "note": "2E"
+    "note": "2E",
+    "timestamp": 50.666667
 }, {
     "beat": 59,
-    "note": "4D"
+    "note": "4D",
+    "timestamp": 52.444444
 }, {
     "beat": 60,
-    "note": "4E"
+    "note": "4E",
+    "timestamp": 53.333333
 }, {
     "beat": 60,
-    "note": "2D"
+    "note": "2D",
+    "timestamp": 53.333333
 }, {
     "beat": 61,
-    "note": "4F"
+    "note": "4F",
+    "timestamp": 54.222222
 }, {
     "beat": 63,
-    "note": "4A"
+    "note": "4A",
+    "timestamp": 56.0
 }, {
     "beat": 63,
-    "note": "1A"
+    "note": "1A",
+    "timestamp": 56.0
 }, {
     "beat": 64,
-    "note": "3A"
+    "note": "3A",
+    "timestamp": 56.888889
 }, {
     "beat": 64,
-    "note": "4B"
+    "note": "4B",
+    "timestamp": 56.888889
 }, {
     "beat": 65,
-    "note": "5C"
+    "note": "5C",
+    "timestamp": 57.777778
 }, {
     "beat": 66,
-    "note": "4C"
+    "note": "4C",
+    "timestamp": 58.666667
 }, {
     "beat": 66,
-    "note": "5E"
+    "note": "5E",
+    "timestamp": 58.666667
 }, {
     "beat": 66,
-    "note": "2D"
+    "note": "2D",
+    "timestamp": 58.666667
 }, {
     "beat": 67,
-    "note": "5D"
+    "note": "5D",
+    "timestamp": 59.555556
 }, {
     "beat": 68,
-    "note": "4F"
+    "note": "4F",
+    "timestamp": 60.444444
 }, {
     "beat": 68,
-    "note": "4B"
+    "note": "4B",
+    "timestamp": 60.444444
 }, {
     "beat": 69,
-    "note": "5D"
+    "note": "5D",
+    "timestamp": 61.333333
 }, {
     "beat": 69,
-    "note": "2D"
+    "note": "2D",
+    "timestamp": 61.333333
 }, {
     "beat": 70,
-    "note": "5C"
+    "note": "5C",
+    "timestamp": 62.222222
 }, {
     "beat": 71,
-    "note": "3B"
+    "note": "3B",
+    "timestamp": 63.111111
 }, {
     "beat": 71,
-    "note": "4B"
+    "note": "4B",
+    "timestamp": 63.111111
 }, {
     "beat": 72,
-    "note": "5D"
+    "note": "5D",
+    "timestamp": 64.0
 }, {
     "beat": 72,
-    "note": "2D"
+    "note": "2D",
+    "timestamp": 64.0
 }, {
     "beat": 73,
-    "note": "4D"
+    "note": "4D",
+    "timestamp": 64.888889
 }, {
     "beat": 75,
-    "note": "4F"
+    "note": "4F",
+    "timestamp": 66.666667
 }, {
     "beat": 75,
-    "note": "5D"
+    "note": "5D",
+    "timestamp": 66.666667
 }, {
     "beat": 75,
-    "note": "2D"
+    "note": "2D",
+    "timestamp": 66.666667
 }, {
     "beat": 77,
-    "note": "5D"
+    "note": "5D",
+    "timestamp": 68.444444
 }, {
     "beat": 78,
-    "note": "3A"
+    "note": "3A",
+    "timestamp": 69.333333
 }, {
     "beat": 78,
-    "note": "5E"
+    "note": "5E",
+    "timestamp": 69.333333
 }, {
     "beat": 78,
-    "note": "2D"
+    "note": "2D",
+    "timestamp": 69.333333
 }, {
     "beat": 79,
-    "note": "5F"
+    "note": "5F",
+    "timestamp": 70.222222
 }, {
     "beat": 80,
-    "note": "4C"
+    "note": "4C",
+    "timestamp": 71.111111
 }, {
     "beat": 80,
-    "note": "5G"
+    "note": "5G",
+    "timestamp": 71.111111
 }, {
     "beat": 81,
-    "note": "5A"
+    "note": "5A",
+    "timestamp": 72.0
 }, {
     "beat": 81,
-    "note": "2D"
+    "note": "2D",
+    "timestamp": 72.0
 }, {
     "beat": 82,
-    "note": "4F"
+    "note": "4F",
+    "timestamp": 72.888889
 }, {
     "beat": 82,
-    "note": "5C"
+    "note": "5C",
+    "timestamp": 72.888889
 }, {
     "beat": 83,
-    "note": "5D"
+    "note": "5D",
+    "timestamp": 73.777778
 }, {
     "beat": 84,
-    "note": "5E"
+    "note": "5E",
+    "timestamp": 74.666667
 }, {
     "beat": 84,
-    "note": "2D"
+    "note": "2D",
+    "timestamp": 74.666667
 }, {
     "beat": 85,
-    "note": "3B"
+    "note": "3B",
+    "timestamp": 75.555556
 }, {
     "beat": 85,
-    "note": "5D"
+    "note": "5D",
+    "timestamp": 75.555556
 }, {
     "beat": 86,
-    "note": "4B"
+    "note": "4B",
+    "timestamp": 76.444444
 }, {
     "beat": 87,
-    "note": "4D"
+    "note": "4D",
+    "timestamp": 77.333333
 }, {
     "beat": 87,
-    "note": "5D"
+    "note": "5D",
+    "timestamp": 77.333333
 }, {
     "beat": 87,
-    "note": "2D"
+    "note": "2D",
+    "timestamp": 77.333333
 }, {
     "beat": 89,
-    "note": "4F"
+    "note": "4F",
+    "timestamp": 79.111111
 }, {
     "beat": 90,
-    "note": "5D"
+    "note": "5D",
+    "timestamp": 80.0
 }, {
     "beat": 90,
-    "note": "2D"
+    "note": "2D",
+    "timestamp": 80.0
 }, {
     "beat": 92,
-    "note": "3A"
+    "note": "3A",
+    "timestamp": 81.777778
 }, {
     "beat": 92,
-    "note": "5D"
+    "note": "5D",
+    "timestamp": 81.777778
 }, {
     "beat": 93,
-    "note": "5G"
+    "note": "5G",
+    "timestamp": 82.666667
 }, {
     "beat": 93,
-    "note": "2E"
+    "note": "2E",
+    "timestamp": 82.666667
 }, {
     "beat": 94,
-    "note": "4C"
+    "note": "4C",
+    "timestamp": 83.555556
 }, {
     "beat": 96,
-    "note": "4F"
+    "note": "4F",
+    "timestamp": 85.333333
 }, {
     "beat": 96,
-    "note": "5F"
+    "note": "5F",
+    "timestamp": 85.333333
 }, {
     "beat": 96,
-    "note": "2F"
+    "note": "2F",
+    "timestamp": 85.333333
 }, {
     "beat": 99,
-    "note": "3B"
+    "note": "3B",
+    "timestamp": 88.0
 }, {
     "beat": 99,
-    "note": "4B"
+    "note": "4B",
+    "timestamp": 88.0
 }, {
     "beat": 99,
-    "note": "1B"
+    "note": "1B",
+    "timestamp": 88.0
 }, {
     "beat": 100,
-    "note": "4A"
+    "note": "4A",
+    "timestamp": 88.888889
 }, {
     "beat": 101,
-    "note": "4D"
+    "note": "4D",
+    "timestamp": 89.777778
 }, {
     "beat": 101,
-    "note": "4B"
+    "note": "4B",
+    "timestamp": 89.777778
 }, {
     "beat": 102,
-    "note": "5C"
+    "note": "5C",
+    "timestamp": 90.666667
 }, {
     "beat": 102,
-    "note": "2E"
+    "note": "2E",
+    "timestamp": 90.666667
 }, {
     "beat": 103,
-    "note": "4F"
+    "note": "4F",
+    "timestamp": 91.555556
 }, {
     "beat": 103,
-    "note": "5D"
+    "note": "5D",
+    "timestamp": 91.555556
 }, {
     "beat": 104,
-    "note": "5E"
+    "note": "5E",
+    "timestamp": 92.444444
 }, {
     "beat": 105,
-    "note": "5C"
+    "note": "5C",
+    "timestamp": 93.333333
 }, {
     "beat": 105,
-    "note": "2E"
+    "note": "2E",
+    "timestamp": 93.333333
 }, {
     "beat": 106,
-    "note": "3A"
+    "note": "3A",
+    "timestamp": 94.222222
 }, {
     "beat": 106,
-    "note": "5D"
+    "note": "5D",
+    "timestamp": 94.222222
 }, {
     "beat": 107,
-    "note": "5E"
+    "note": "5E",
+    "timestamp": 95.111111
 }, {
     "beat": 108,
-    "note": "4C"
+    "note": "4C",
+    "timestamp": 96.0
 }, {
     "beat": 108,
-    "note": "4F"
+    "note": "4F",
+    "timestamp": 96.0
 }, {
     "beat": 108,
-    "note": "2E"
+    "note": "2E",
+    "timestamp": 96.0
 }, {
     "beat": 110,
-    "note": "4F"
+    "note": "4F",
+    "timestamp": 97.777778
 }, {
     "beat": 111,
-    "note": "4C"
+    "note": "4C",
+    "timestamp": 98.666667
 }, {
     "beat": 111,
-    "note": "2G"
+    "note": "2G",
+    "timestamp": 98.666667
 }, {
     "beat": 113,
-    "note": "3A"
+    "note": "3A",
+    "timestamp": 100.444444
 }, {
     "beat": 114,
-    "note": "4E"
+    "note": "4E",
+    "timestamp": 101.333333
 }, {
     "beat": 114,
-    "note": "2D"
+    "note": "2D",
+    "timestamp": 101.333333
 }, {
     "beat": 115,
-    "note": "4C"
+    "note": "4C",
+    "timestamp": 102.222222
 }, {
     "beat": 117,
-    "note": "4F"
+    "note": "4F",
+    "timestamp": 104.0
 }, {
     "beat": 117,
-    "note": "4A"
+    "note": "4A",
+    "timestamp": 104.0
 }, {
     "beat": 117,
-    "note": "2G"
+    "note": "2G",
+    "timestamp": 104.0
 }, {
     "beat": 120,
-    "note": "3B"
+    "note": "3B",
+    "timestamp": 106.666667
 }, {
     "beat": 120,
-    "note": "5C"
+    "note": "5C",
+    "timestamp": 106.666667
 }, {
     "beat": 120,
-    "note": "2D"
+    "note": "2D",
+    "timestamp": 106.666667
 }, {
     "beat": 122,
-    "note": "4D"
+    "note": "4D",
+    "timestamp": 108.444444
 }, {
     "beat": 123,
-    "note": "4D"
+    "note": "4D",
+    "timestamp": 109.333333
 }, {
     "beat": 123,
-    "note": "2G"
+    "note": "2G",
+    "timestamp": 109.333333
 }, {
     "beat": 124,
-    "note": "4F"
+    "note": "4F",
+    "timestamp": 110.222222
 }, {
     "beat": 126,
-    "note": "4F"
+    "note": "4F",
+    "timestamp": 112.0
 }, {
     "beat": 126,
-    "note": "2D"
+    "note": "2D",
+    "timestamp": 112.0
 }, {
     "beat": 127,
-    "note": "3G"
+    "note": "3G",
+    "timestamp": 112.888889
 }, {
     "beat": 129,
-    "note": "3B"
+    "note": "3B",
+    "timestamp": 114.666667
 }, {
     "beat": 129,
-    "note": "4A"
+    "note": "4A",
+    "timestamp": 114.666667
 }, {
     "beat": 129,
-    "note": "2G"
+    "note": "2G",
+    "timestamp": 114.666667
 }, {
     "beat": 132,
-    "note": "3B"
+    "note": "3B",
+    "timestamp": 117.333333
 }, {
     "beat": 132,
-    "note": "5D"
+    "note": "5D",
+    "timestamp": 117.333333
 }, {
     "beat": 132,
-    "note": "2D"
+    "note": "2D",
+    "timestamp": 117.333333
 }, {
     "beat": 134,
-    "note": "4D"
+    "note": "4D",
+    "timestamp": 119.111111
 }, {
     "beat": 135,
-    "note": "2G"
+    "note": "2G",
+    "timestamp": 120.0
 }, {
     "beat": 136,
-    "note": "4G"
+    "note": "4G",
+    "timestamp": 120.888889
 }, {
     "beat": 138,
-    "note": "2D"
+    "note": "2D",
+    "timestamp": 122.666667
 }, {
     "beat": 139,
-    "note": "3F"
+    "note": "3F",
+    "timestamp": 123.555556
 }, {
     "beat": 141,
-    "note": "3A"
+    "note": "3A",
+    "timestamp": 125.333333
 }, {
     "beat": 141,
-    "note": "2G"
+    "note": "2G",
+    "timestamp": 125.333333
 }, {
     "beat": 143,
-    "note": "4D"
+    "note": "4D",
+    "timestamp": 127.111111
 }, {
     "beat": 144,
-    "note": "2D"
+    "note": "2D",
+    "timestamp": 128.0
 }, {
     "beat": 146,
-    "note": "3A"
+    "note": "3A",
+    "timestamp": 129.777778
 }, {
     "beat": 147,
-    "note": "2G"
+    "note": "2G",
+    "timestamp": 130.666667
 }, {
     "beat": 148,
-    "note": "4C"
+    "note": "4C",
+    "timestamp": 131.555556
 }, {
     "beat": 148,
-    "note": "5F"
+    "note": "5F",
+    "timestamp": 131.555556
 }, {
     "beat": 149,
-    "note": "5A"
+    "note": "5A",
+    "timestamp": 132.444444
 }, {
     "beat": 150,
-    "note": "4E"
+    "note": "4E",
+    "timestamp": 133.333333
 }, {
     "beat": 150,
-    "note": "5G"
+    "note": "5G",
+    "timestamp": 133.333333
 }, {
     "beat": 150,
-    "note": "2D"
+    "note": "2D",
+    "timestamp": 133.333333
 }, {
     "beat": 151,
-    "note": "5F"
+    "note": "5F",
+    "timestamp": 134.222222
 }, {
     "beat": 152,
-    "note": "5C"
+    "note": "5C",
+    "timestamp": 135.111111
 }, {
     "beat": 153,
-    "note": "3G"
+    "note": "3G",
+    "timestamp": 136.0
 }, {
     "beat": 153,
-    "note": "4B"
+    "note": "4B",
+    "timestamp": 136.0
 }, {
     "beat": 153,
-    "note": "2G"
+    "note": "2G",
+    "timestamp": 136.0
 }, {
     "beat": 154,
-    "note": "5C"
+    "note": "5C",
+    "timestamp": 136.888889
 }, {
     "beat": 155,
-    "note": "3B"
+    "note": "3B",
+    "timestamp": 137.777778
 }, {
     "beat": 155,
-    "note": "5D"
+    "note": "5D",
+    "timestamp": 137.777778
 }, {
     "beat": 156,
-    "note": "4A"
+    "note": "4A",
+    "timestamp": 138.666667
 }, {
     "beat": 156,
-    "note": "2D"
+    "note": "2D",
+    "timestamp": 138.666667
 }, {
     "beat": 157,
-    "note": "4E"
+    "note": "4E",
+    "timestamp": 139.555556
 }, {
     "beat": 159,
-    "note": "4F"
+    "note": "4F",
+    "timestamp": 141.333333
 }, {
     "beat": 159,
-    "note": "2F"
+    "note": "2F",
+    "timestamp": 141.333333
 }, {
     "beat": 160,
-    "note": "3D"
+    "note": "3D",
+    "timestamp": 142.222222
 }, {
     "beat": 162,
-    "note": "3G"
+    "note": "3G",
+    "timestamp": 144.0
 }, {
     "beat": 162,
-    "note": "4F"
+    "note": "4F",
+    "timestamp": 144.0
 }, {
     "beat": 162,
-    "note": "1B"
+    "note": "1B",
+    "timestamp": 144.0
 }, {
     "beat": 164,
-    "note": "3B"
+    "note": "3B",
+    "timestamp": 145.777778
 }, {
     "beat": 165,
-    "note": "4F"
+    "note": "4F",
+    "timestamp": 146.666667
 }, {
     "beat": 165,
-    "note": "2E"
+    "note": "2E",
+    "timestamp": 146.666667
 }, {
     "beat": 166,
-    "note": "4E"
+    "note": "4E",
+    "timestamp": 147.555556
 }, {
     "beat": 168,
-    "note": "4F"
+    "note": "4F",
+    "timestamp": 149.333333
 }, {
     "beat": 168,
-    "note": "2E"
+    "note": "2E",
+    "timestamp": 149.333333
 }, {
     "beat": 169,
-    "note": "3C"
+    "note": "3C",
+    "timestamp": 150.222222
 }, {
     "beat": 171,
-    "note": "3E"
+    "note": "3E",
+    "timestamp": 152.0
 }, {
     "beat": 171,
-    "note": "2D"
+    "note": "2D",
+    "timestamp": 152.0
 }, {
     "beat": 172,
-    "note": "5F"
+    "note": "5F",
+    "timestamp": 152.888889
 }, {
     "beat": 173,
-    "note": "3A"
+    "note": "3A",
+    "timestamp": 153.777778
 }, {
     "beat": 173,
-    "note": "5A"
+    "note": "5A",
+    "timestamp": 153.777778
 }, {
     "beat": 174,
-    "note": "5G"
+    "note": "5G",
+    "timestamp": 154.666667
 }, {
     "beat": 174,
-    "note": "1A"
+    "note": "1A",
+    "timestamp": 154.666667
 }, {
     "beat": 175,
-    "note": "4D"
+    "note": "4D",
+    "timestamp": 155.555556
 }, {
     "beat": 175,
-    "note": "5F"
+    "note": "5F",
+    "timestamp": 155.555556
 }, {
     "beat": 176,
-    "note": "5C"
+    "note": "5C",
+    "timestamp": 156.444444
 }, {
     "beat": 177,
-    "note": "4B"
+    "note": "4B",
+    "timestamp": 157.333333
 }, {
     "beat": 177,
-    "note": "2D"
+    "note": "2D",
+    "timestamp": 157.333333
 }, {
     "beat": 178,
-    "note": "3C"
+    "note": "3C",
+    "timestamp": 158.222222
 }, {
     "beat": 178,
-    "note": "5C"
+    "note": "5C",
+    "timestamp": 158.222222
 }, {
     "beat": 179,
-    "note": "5D"
+    "note": "5D",
+    "timestamp": 159.111111
 }, {
     "beat": 180,
-    "note": "3F"
+    "note": "3F",
+    "timestamp": 160.0
 }, {
     "beat": 180,
-    "note": "4A"
+    "note": "4A",
+    "timestamp": 160.0
 }, {
     "beat": 180,
-    "note": "2D"
+    "note": "2D",
+    "timestamp": 160.0
 }, {
     "beat": 182,
-    "note": "3A"
+    "note": "3A",
+    "timestamp": 161.777778
 }, {
     "beat": 183,
-    "note": "5C"
+    "note": "5C",
+    "timestamp": 162.666667
 }, {
     "beat": 183,
-    "note": "2D"
+    "note": "2D",
+    "timestamp": 162.666667
 }, {
     "beat": 184,
-    "note": "4D"
+    "note": "4D",
+    "timestamp": 163.555556
 }, {
     "beat": 186,
-    "note": "5F"
+    "note": "5F",
+    "timestamp": 165.333333
 }, {
     "beat": 186,
-    "note": "2D"
+    "note": "2D",
+    "timestamp": 165.333333
 }, {
     "beat": 187,
-    "note": "3A"
+    "note": "3A",
+    "timestamp": 166.222222
 }, {
     "beat": 189,
-    "note": "4C"
+    "note": "4C",
+    "timestamp": 168.0
 }, {
     "beat": 189,
-    "note": "4E"
+    "note": "4E",
+    "timestamp": 168.0
 }, {
     "beat": 189,
-    "note": "2D"
+    "note": "2D",
+    "timestamp": 168.0
 }, {
     "beat": 191,
-    "note": "4F"
+    "note": "4F",
+    "timestamp": 169.777778
 }, {
     "beat": 192,
-    "note": "4E"
+    "note": "4E",
+    "timestamp": 170.666667
 }, {
     "beat": 192,
-    "note": "2D"
+    "note": "2D",
+    "timestamp": 170.666667
 }, {
     "beat": 194,
-    "note": "3A"
+    "note": "3A",
+    "timestamp": 172.444444
 }, {
     "beat": 195,
-    "note": "4E"
+    "note": "4E",
+    "timestamp": 173.333333
 }, {
     "beat": 195,
-    "note": "2D"
+    "note": "2D",
+    "timestamp": 173.333333
 }, {
     "beat": 196,
-    "note": "4C"
+    "note": "4C",
+    "timestamp": 174.222222
 }, {
     "beat": 198,
-    "note": "4E"
+    "note": "4E",
+    "timestamp": 176.0
 }, {
     "beat": 198,
-    "note": "4A"
+    "note": "4A",
+    "timestamp": 176.0
 }, {
     "beat": 198,
-    "note": "2D"
+    "note": "2D",
+    "timestamp": 176.0
 }, {
     "beat": 199,
-    "note": "4B"
+    "note": "4B",
+    "timestamp": 176.888889
 }, {
     "beat": 200,
-    "note": "5C"
+    "note": "5C",
+    "timestamp": 177.777778
 }, {
     "beat": 201,
-    "note": "3D"
+    "note": "3D",
+    "timestamp": 178.666667
 }, {
     "beat": 201,
-    "note": "5E"
+    "note": "5E",
+    "timestamp": 178.666667
 }, {
     "beat": 201,
-    "note": "2D"
+    "note": "2D",
+    "timestamp": 178.666667
 }, {
     "beat": 202,
-    "note": "5D"
+    "note": "5D",
+    "timestamp": 179.555556
 }, {
     "beat": 203,
-    "note": "3G"
+    "note": "3G",
+    "timestamp": 180.444444
 }, {
     "beat": 203,
-    "note": "4B"
+    "note": "4B",
+    "timestamp": 180.444444
 }, {
     "beat": 204,
-    "note": "5D"
+    "note": "5D",
+    "timestamp": 181.333333
 }, {
     "beat": 204,
-    "note": "2E"
+    "note": "2E",
+    "timestamp": 181.333333
 }, {
     "beat": 205,
-    "note": "3B"
+    "note": "3B",
+    "timestamp": 182.222222
 }, {
     "beat": 205,
-    "note": "5C"
+    "note": "5C",
+    "timestamp": 182.222222
 }, {
     "beat": 206,
-    "note": "4B"
+    "note": "4B",
+    "timestamp": 183.111111
 }, {
     "beat": 207,
-    "note": "4E"
+    "note": "4E",
+    "timestamp": 184.0
 }, {
     "beat": 207,
-    "note": "5D"
+    "note": "5D",
+    "timestamp": 184.0
 }, {
     "beat": 207,
-    "note": "2E"
+    "note": "2E",
+    "timestamp": 184.0
 }, {
     "beat": 210,
-    "note": "3C"
+    "note": "3C",
+    "timestamp": 186.666667
 }, {
     "beat": 210,
-    "note": "5D"
+    "note": "5D",
+    "timestamp": 186.666667
 }, {
     "beat": 210,
-    "note": "2E"
+    "note": "2E",
+    "timestamp": 186.666667
 }, {
     "beat": 212,
-    "note": "3E"
+    "note": "3E",
+    "timestamp": 188.444444
 }, {
     "beat": 212,
-    "note": "5D"
+    "note": "5D",
+    "timestamp": 188.444444
 }, {
     "beat": 213,
-    "note": "5E"
+    "note": "5E",
+    "timestamp": 189.333333
 }, {
     "beat": 213,
-    "note": "2E"
+    "note": "2E",
+    "timestamp": 189.333333
 }, {
     "beat": 214,
-    "note": "3A"
+    "note": "3A",
+    "timestamp": 190.222222
 }, {
     "beat": 214,
-    "note": "5F"
+    "note": "5F",
+    "timestamp": 190.222222
 }, {
     "beat": 215,
-    "note": "5G"
+    "note": "5G",
+    "timestamp": 191.111111
 }, {
     "beat": 216,
-    "note": "4D"
+    "note": "4D",
+    "timestamp": 192.0
 }, {
     "beat": 216,
-    "note": "5A"
+    "note": "5A",
+    "timestamp": 192.0
 }, {
     "beat": 216,
-    "note": "2E"
+    "note": "2E",
+    "timestamp": 192.0
 }, {
     "beat": 217,
-    "note": "5C"
+    "note": "5C",
+    "timestamp": 192.888889
 }, {
     "beat": 218,
-    "note": "5D"
+    "note": "5D",
+    "timestamp": 193.777778
 }, {
     "beat": 219,
-    "note": "3C"
+    "note": "3C",
+    "timestamp": 194.666667
 }, {
     "beat": 219,
-    "note": "5E"
+    "note": "5E",
+    "timestamp": 194.666667
 }, {
     "beat": 219,
-    "note": "2E"
+    "note": "2E",
+    "timestamp": 194.666667
 }, {
     "beat": 220,
-    "note": "5D"
+    "note": "5D",
+    "timestamp": 195.555556
 }, {
     "beat": 221,
-    "note": "3F"
+    "note": "3F",
+    "timestamp": 196.444444
 }, {
     "beat": 221,
-    "note": "4B"
+    "note": "4B",
+    "timestamp": 196.444444
 }, {
     "beat": 222,
-    "note": "5D"
+    "note": "5D",
+    "timestamp": 197.333333
 }, {
     "beat": 223,
-    "note": "3A"
+    "note": "3A",
+    "timestamp": 198.222222
 }, {
     "beat": 225,
-    "note": "4D"
+    "note": "4D",
+    "timestamp": 200.0
 }, {
     "beat": 225,
-    "note": "5D"
+    "note": "5D",
+    "timestamp": 200.0
 }, {
     "beat": 227,
-    "note": "5D"
+    "note": "5D",
+    "timestamp": 201.777778
 }, {
     "beat": 228,
-    "note": "3B"
+    "note": "3B",
+    "timestamp": 202.666667
 }, {
     "beat": 228,
-    "note": "5G"
+    "note": "5G",
+    "timestamp": 202.666667
 }, {
     "beat": 230,
-    "note": "4E"
+    "note": "4E",
+    "timestamp": 204.444444
 }, {
     "beat": 231,
-    "note": "5F"
+    "note": "5F",
+    "timestamp": 205.333333
 }, {
     "beat": 232,
-    "note": "4G"
+    "note": "4G",
+    "timestamp": 206.222222
 }, {
     "beat": 234,
-    "note": "4B"
+    "note": "4B",
+    "timestamp": 208.0
 }, {
     "beat": 235,
-    "note": "3A"
+    "note": "3A",
+    "timestamp": 208.888889
 }, {
     "beat": 235,
-    "note": "5C"
+    "note": "5C",
+    "timestamp": 208.888889
 }, {
     "beat": 236,
-    "note": "5F"
+    "note": "5F",
+    "timestamp": 209.777778
 }, {
     "beat": 237,
-    "note": "4C"
+    "note": "4C",
+    "timestamp": 210.666667
 }, {
     "beat": 237,
-    "note": "5E"
+    "note": "5E",
+    "timestamp": 210.666667
 }, {
     "beat": 238,
-    "note": "5D"
+    "note": "5D",
+    "timestamp": 211.555556
 }, {
     "beat": 239,
-    "note": "4F"
+    "note": "4F",
+    "timestamp": 212.444444
 }, {
     "beat": 239,
-    "note": "5C"
+    "note": "5C",
+    "timestamp": 212.444444
 }, {
     "beat": 240,
-    "note": "5E"
+    "note": "5E",
+    "timestamp": 213.333333
 }, {
     "beat": 241,
-    "note": "5D"
+    "note": "5D",
+    "timestamp": 214.222222
 }, {
     "beat": 242,
-    "note": "3B"
+    "note": "3B",
+    "timestamp": 215.111111
 }, {
     "beat": 242,
-    "note": "5C"
+    "note": "5C",
+    "timestamp": 215.111111
 }, {
     "beat": 243,
-    "note": "4F"
+    "note": "4F",
+    "timestamp": 216.0
 }, {
     "beat": 244,
-    "note": "4D"
+    "note": "4D",
+    "timestamp": 216.888889
 }, {
     "beat": 246,
-    "note": "4F"
+    "note": "4F",
+    "timestamp": 218.666667
 }, {
     "beat": 246,
-    "note": "4C"
+    "note": "4C",
+    "timestamp": 218.666667
 }, {
     "beat": 249,
-    "note": "4C"
+    "note": "4C",
+    "timestamp": 221.333333
 }, {
     "beat": 249,
-    "note": "4E"
+    "note": "4E",
+    "timestamp": 221.333333
 }, {
     "beat": 251,
-    "note": "4E"
+    "note": "4E",
+    "timestamp": 223.111111
 }, {
     "beat": 252,
-    "note": "4A"
+    "note": "4A",
+    "timestamp": 224.0
 }, {
     "beat": 253,
-    "note": "4A"
+    "note": "4A",
+    "timestamp": 224.888889
 }, {
     "beat": 255,
-    "note": "5C"
+    "note": "5C",
+    "timestamp": 226.666667
 }, {
     "beat": 256,
-    "note": "3A"
+    "note": "3A",
+    "timestamp": 227.555556
 }, {
     "beat": 258,
-    "note": "4C"
+    "note": "4C",
+    "timestamp": 229.333333
 }, {
     "beat": 258,
-    "note": "4D"
+    "note": "4D",
+    "timestamp": 229.333333
 }, {
     "beat": 260,
-    "note": "4F"
+    "note": "4F",
+    "timestamp": 231.111111
 }, {
     "beat": 261,
-    "note": "4F"
+    "note": "4F",
+    "timestamp": 232.0
 }, {
     "beat": 262,
-    "note": "4A"
+    "note": "4A",
+    "timestamp": 232.888889
 }, {
     "beat": 264,
-    "note": "4A"
+    "note": "4A",
+    "timestamp": 234.666667
 }, {
     "beat": 265,
-    "note": "2B"
+    "note": "2B",
+    "timestamp": 235.555556
 }, {
     "beat": 266,
-    "note": "3E"
+    "note": "3E",
+    "timestamp": 236.444444
 }, {
     "beat": 267,
-    "note": "2A"
+    "note": "2A",
+    "timestamp": 237.333333
 }, {
     "beat": 267,
-    "note": "5D"
+    "note": "5D",
+    "timestamp": 237.333333
 }, {
     "beat": 270,
-    "note": "3G"
+    "note": "3G",
+    "timestamp": 240.0
 }, {
     "beat": 273,
-    "note": "2D"
+    "note": "2D",
+    "timestamp": 242.666667
 }, {
     "beat": 276,
-    "note": "2A"
+    "note": "2A",
+    "timestamp": 245.333333
 }, {
     "beat": 279,
-    "note": "3D"
+    "note": "3D",
+    "timestamp": 248.0
 }, {
     "beat": 283,
-    "note": "3B"
+    "note": "3B",
+    "timestamp": 251.555556
 }, {
     "beat": 285,
-    "note": "4D"
+    "note": "4D",
+    "timestamp": 253.333333
 }, {
     "beat": 287,
-    "note": "4F"
+    "note": "4F",
+    "timestamp": 255.111111
 }, {
     "beat": 290,
-    "note": "3A"
+    "note": "3A",
+    "timestamp": 257.777778
 }, {
     "beat": 292,
-    "note": "4C"
+    "note": "4C",
+    "timestamp": 259.555556
 }, {
     "beat": 294,
-    "note": "4F"
+    "note": "4F",
+    "timestamp": 261.333333
 }, {
     "beat": 297,
-    "note": "3B"
+    "note": "3B",
+    "timestamp": 264.0
 }, {
     "beat": 299,
-    "note": "4D"
+    "note": "4D",
+    "timestamp": 265.777778
 }, {
     "beat": 301,
-    "note": "4F"
+    "note": "4F",
+    "timestamp": 267.555556
 }, {
     "beat": 304,
-    "note": "3A"
+    "note": "3A",
+    "timestamp": 270.222222
 }, {
     "beat": 306,
-    "note": "4C"
+    "note": "4C",
+    "timestamp": 272.0
 }, {
     "beat": 308,
-    "note": "4F"
+    "note": "4F",
+    "timestamp": 273.777778
 }, {
     "beat": 311,
-    "note": "3B"
+    "note": "3B",
+    "timestamp": 276.444444
 }, {
     "beat": 313,
-    "note": "4D"
+    "note": "4D",
+    "timestamp": 278.222222
 }, {
     "beat": 315,
-    "note": "4F"
+    "note": "4F",
+    "timestamp": 280.0
 }, {
     "beat": 318,
-    "note": "3A"
+    "note": "3A",
+    "timestamp": 282.666667
 }, {
     "beat": 320,
-    "note": "4C"
+    "note": "4C",
+    "timestamp": 284.444444
 }, {
     "beat": 322,
-    "note": "4F"
+    "note": "4F",
+    "timestamp": 286.222222
 }, {
     "beat": 325,
-    "note": "3B"
+    "note": "3B",
+    "timestamp": 288.888889
 }, {
     "beat": 327,
-    "note": "4D"
+    "note": "4D",
+    "timestamp": 290.666667
 }, {
     "beat": 329,
-    "note": "4F"
+    "note": "4F",
+    "timestamp": 292.444444
 }, {
     "beat": 332,
-    "note": "3A"
+    "note": "3A",
+    "timestamp": 295.111111
 }, {
     "beat": 334,
-    "note": "4C"
+    "note": "4C",
+    "timestamp": 296.888889
 }, {
     "beat": 336,
-    "note": "4F"
+    "note": "4F",
+    "timestamp": 298.666667
 }, {
     "beat": 339,
-    "note": "3B"
+    "note": "3B",
+    "timestamp": 301.333333
 }, {
     "beat": 341,
-    "note": "4D"
+    "note": "4D",
+    "timestamp": 303.111111
 }, {
     "beat": 343,
-    "note": "4F"
+    "note": "4F",
+    "timestamp": 304.888889
 }, {
     "beat": 346,
-    "note": "3A"
+    "note": "3A",
+    "timestamp": 307.555556
 }, {
     "beat": 348,
-    "note": "4C"
+    "note": "4C",
+    "timestamp": 309.333333
 }, {
     "beat": 350,
-    "note": "4F"
+    "note": "4F",
+    "timestamp": 311.111111
 }, {
     "beat": 353,
-    "note": "3B"
+    "note": "3B",
+    "timestamp": 313.777778
 }, {
     "beat": 355,
-    "note": "4D"
+    "note": "4D",
+    "timestamp": 315.555556
 }, {
     "beat": 357,
-    "note": "4F"
+    "note": "4F",
+    "timestamp": 317.333333
 }, {
     "beat": 360,
-    "note": "3A"
+    "note": "3A",
+    "timestamp": 320.0
 }, {
     "beat": 362,
-    "note": "4C"
+    "note": "4C",
+    "timestamp": 321.777778
 }, {
     "beat": 364,
-    "note": "4F"
+    "note": "4F",
+    "timestamp": 323.555556
 }, {
     "beat": 367,
-    "note": "3B"
+    "note": "3B",
+    "timestamp": 326.222222
 }, {
     "beat": 369,
-    "note": "4D"
+    "note": "4D",
+    "timestamp": 328.0
 }, {
     "beat": 371,
-    "note": "4F"
+    "note": "4F",
+    "timestamp": 329.777778
 }, {
     "beat": 374,
-    "note": "3A"
+    "note": "3A",
+    "timestamp": 332.444444
 }, {
     "beat": 376,
-    "note": "4C"
+    "note": "4C",
+    "timestamp": 334.222222
 }, {
     "beat": 378,
-    "note": "4F"
+    "note": "4F",
+    "timestamp": 336.0
 }, {
     "beat": 381,
-    "note": "3B"
+    "note": "3B",
+    "timestamp": 338.666667
 }, {
     "beat": 383,
-    "note": "4D"
+    "note": "4D",
+    "timestamp": 340.444444
 }, {
     "beat": 385,
-    "note": "4F"
+    "note": "4F",
+    "timestamp": 342.222222
 }, {
     "beat": 388,
-    "note": "3A"
+    "note": "3A",
+    "timestamp": 344.888889
 }, {
     "beat": 390,
-    "note": "4C"
+    "note": "4C",
+    "timestamp": 346.666667
 }, {
     "beat": 392,
-    "note": "4F"
+    "note": "4F",
+    "timestamp": 348.444444
 }, {
     "beat": 395,
-    "note": "3A"
+    "note": "3A",
+    "timestamp": 351.111111
 }, {
     "beat": 397,
-    "note": "4C"
+    "note": "4C",
+    "timestamp": 352.888889
 }, {
     "beat": 399,
-    "note": "4F"
+    "note": "4F",
+    "timestamp": 354.666667
 }, {
     "beat": 402,
-    "note": "3B"
+    "note": "3B",
+    "timestamp": 357.333333
 }, {
     "beat": 404,
-    "note": "4D"
+    "note": "4D",
+    "timestamp": 359.111111
 }, {
     "beat": 406,
-    "note": "4F"
+    "note": "4F",
+    "timestamp": 360.888889
 }, {
     "beat": 409,
-    "note": "3G"
+    "note": "3G",
+    "timestamp": 363.555556
 }, {
     "beat": 411,
-    "note": "3B"
+    "note": "3B",
+    "timestamp": 365.333333
 }, {
     "beat": 414,
-    "note": "3B"
+    "note": "3B",
+    "timestamp": 368.0
 }, {
     "beat": 416,
-    "note": "4D"
+    "note": "4D",
+    "timestamp": 369.777778
 }, {
     "beat": 418,
-    "note": "4G"
+    "note": "4G",
+    "timestamp": 371.555556
 }, {
     "beat": 421,
-    "note": "3F"
+    "note": "3F",
+    "timestamp": 374.222222
 }, {
     "beat": 423,
-    "note": "3A"
+    "note": "3A",
+    "timestamp": 376.0
 }, {
     "beat": 425,
-    "note": "4D"
+    "note": "4D",
+    "timestamp": 377.777778
 }, {
     "beat": 428,
-    "note": "3A"
+    "note": "3A",
+    "timestamp": 380.444444
 }, {
     "beat": 430,
-    "note": "4C"
+    "note": "4C",
+    "timestamp": 382.222222
 }, {
     "beat": 432,
-    "note": "4E"
+    "note": "4E",
+    "timestamp": 384.0
 }, {
     "beat": 435,
-    "note": "3G"
+    "note": "3G",
+    "timestamp": 386.666667
 }, {
     "beat": 437,
-    "note": "3B"
+    "note": "3B",
+    "timestamp": 388.444444
 }, {
     "beat": 439,
-    "note": "4E"
+    "note": "4E",
+    "timestamp": 390.222222
 }, {
     "beat": 442,
-    "note": "3D"
+    "note": "3D",
+    "timestamp": 392.888889
 }, {
     "beat": 444,
-    "note": "3G"
+    "note": "3G",
+    "timestamp": 394.666667
 }, {
     "beat": 446,
-    "note": "3B"
+    "note": "3B",
+    "timestamp": 396.444444
 }, {
     "beat": 448,
-    "note": "4E"
+    "note": "4E",
+    "timestamp": 398.222222
 }, {
     "beat": 451,
-    "note": "3C"
+    "note": "3C",
+    "timestamp": 400.888889
 }, {
     "beat": 453,
-    "note": "3E"
+    "note": "3E",
+    "timestamp": 402.666667
 }, {
     "beat": 455,
-    "note": "3A"
+    "note": "3A",
+    "timestamp": 404.444444
 }, {
     "beat": 457,
-    "note": "4D"
+    "note": "4D",
+    "timestamp": 406.222222
 }, {
     "beat": 460,
-    "note": "3C"
+    "note": "3C",
+    "timestamp": 408.888889
 }, {
     "beat": 462,
-    "note": "3F"
+    "note": "3F",
+    "timestamp": 410.666667
 }, {
     "beat": 464,
-    "note": "3A"
+    "note": "3A",
+    "timestamp": 412.444444
 }, {
     "beat": 466,
-    "note": "4D"
+    "note": "4D",
+    "timestamp": 414.222222
 }, {
     "beat": 469,
-    "note": "3A"
+    "note": "3A",
+    "timestamp": 416.888889
 }, {
     "beat": 471,
-    "note": "4C"
+    "note": "4C",
+    "timestamp": 418.666667
 }, {
     "beat": 473,
-    "note": "4F"
+    "note": "4F",
+    "timestamp": 420.444444
 }, {
     "beat": 476,
-    "note": "3A"
+    "note": "3A",
+    "timestamp": 423.111111
 }, {
     "beat": 478,
-    "note": "4C"
+    "note": "4C",
+    "timestamp": 424.888889
 }, {
     "beat": 480,
-    "note": "4E"
+    "note": "4E",
+    "timestamp": 426.666667
 }, {
     "beat": 483,
-    "note": "3D"
+    "note": "3D",
+    "timestamp": 429.333333
 }, {
     "beat": 485,
-    "note": "3G"
+    "note": "3G",
+    "timestamp": 431.111111
 }, {
     "beat": 487,
-    "note": "3B"
+    "note": "3B",
+    "timestamp": 432.888889
 }, {
     "beat": 489,
-    "note": "4E"
+    "note": "4E",
+    "timestamp": 434.666667
 }, {
     "beat": 492,
-    "note": "3C"
+    "note": "3C",
+    "timestamp": 437.333333
 }, {
     "beat": 494,
-    "note": "3E"
+    "note": "3E",
+    "timestamp": 439.111111
 }, {
     "beat": 496,
-    "note": "3A"
+    "note": "3A",
+    "timestamp": 440.888889
 }, {
     "beat": 498,
-    "note": "4D"
+    "note": "4D",
+    "timestamp": 442.666667
 }, {
     "beat": 501,
-    "note": "3C"
+    "note": "3C",
+    "timestamp": 445.333333
 }, {
     "beat": 503,
-    "note": "3F"
+    "note": "3F",
+    "timestamp": 447.111111
 }, {
     "beat": 505,
-    "note": "3A"
+    "note": "3A",
+    "timestamp": 448.888889
 }, {
     "beat": 507,
-    "note": "4D"
+    "note": "4D",
+    "timestamp": 450.666667
 }, {
     "beat": 510,
-    "note": "3B"
+    "note": "3B",
+    "timestamp": 453.333333
 }, {
     "beat": 512,
-    "note": "4E"
+    "note": "4E",
+    "timestamp": 455.111111
 }, {
     "beat": 514,
-    "note": "4G"
+    "note": "4G",
+    "timestamp": 456.888889
 }, {
     "beat": 517,
-    "note": "3A"
+    "note": "3A",
+    "timestamp": 459.555556
 }, {
     "beat": 519,
-    "note": "4D"
+    "note": "4D",
+    "timestamp": 461.333333
 }, {
     "beat": 521,
-    "note": "4F"
+    "note": "4F",
+    "timestamp": 463.111111
 }, {
     "beat": 523,
-    "note": "4A"
+    "note": "4A",
+    "timestamp": 464.888889
 }, {
     "beat": 526,
-    "note": "3A"
+    "note": "3A",
+    "timestamp": 467.555556
 }, {
     "beat": 528,
-    "note": "4C"
+    "note": "4C",
+    "timestamp": 469.333333
 }, {
     "beat": 530,
-    "note": "4F"
+    "note": "4F",
+    "timestamp": 471.111111
 }, {
     "beat": 533,
-    "note": "4C"
+    "note": "4C",
+    "timestamp": 473.777778
 }, {
     "beat": 535,
-    "note": "4E"
+    "note": "4E",
+    "timestamp": 475.555556
 }, {
     "beat": 537,
-    "note": "4A"
+    "note": "4A",
+    "timestamp": 477.333333
 }, {
     "beat": 540,
-    "note": "3A"
+    "note": "3A",
+    "timestamp": 480.0
 }, {
     "beat": 542,
-    "note": "4C"
+    "note": "4C",
+    "timestamp": 481.777778
 }, {
     "beat": 544,
-    "note": "4F"
+    "note": "4F",
+    "timestamp": 483.555556
 }, {
     "beat": 546,
-    "note": "4A"
+    "note": "4A",
+    "timestamp": 485.333333
 }, {
     "beat": 549,
-    "note": "2B"
+    "note": "2B",
+    "timestamp": 488.0
 }, {
     "beat": 550,
-    "note": "3E"
+    "note": "3E",
+    "timestamp": 488.888889
 }, {
     "beat": 551,
-    "note": "2A"
+    "note": "2A",
+    "timestamp": 489.777778
 }, {
     "beat": 554,
-    "note": "3G"
+    "note": "3G",
+    "timestamp": 492.444444
 }, {
     "beat": 557,
-    "note": "2D"
+    "note": "2D",
+    "timestamp": 495.111111
 }, {
     "beat": 560,
-    "note": "2A"
+    "note": "2A",
+    "timestamp": 497.777778
 }, {
     "beat": 563,
-    "note": "3D"
+    "note": "3D",
+    "timestamp": 500.444444
 }]
