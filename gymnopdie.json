@@ -1,1877 +1,2815 @@
 [{
     "beat": 0,
+    "duration": 3,
+    "voice": 6,
     "note": "2G",
     "timestamp": 0.0
 }, {
     "beat": 1,
+    "duration": 2,
+    "voice": 5,
     "note": "3B",
     "timestamp": 0.888889
 }, {
     "beat": 1,
-    "note": "3A",
+    "duration": 2,
+    "voice": 5,
+    "note": "4D",
     "timestamp": 0.888889
 }, {
-    "beat": 2,
-    "note": "4D",
-    "timestamp": 1.777778
+    "beat": 1,
+    "duration": 2,
+    "voice": 5,
+    "note": "4F",
+    "timestamp": 0.888889
 }, {
     "beat": 3,
-    "note": "4D",
-    "timestamp": 2.666667
-}, {
-    "beat": 3,
+    "duration": 3,
+    "voice": 6,
     "note": "2D",
     "timestamp": 2.666667
 }, {
-    "beat": 3,
-    "note": "3B",
-    "timestamp": 2.666667
-}, {
     "beat": 4,
-    "note": "4D",
+    "duration": 2,
+    "voice": 5,
+    "note": "3A",
     "timestamp": 3.555556
 }, {
-    "beat": 5,
-    "note": "4F",
-    "timestamp": 4.444444
+    "beat": 4,
+    "duration": 2,
+    "voice": 5,
+    "note": "4C",
+    "timestamp": 3.555556
 }, {
-    "beat": 5,
-    "note": "4G",
-    "timestamp": 4.444444
+    "beat": 4,
+    "duration": 2,
+    "voice": 5,
+    "note": "4F",
+    "timestamp": 3.555556
 }, {
     "beat": 6,
+    "duration": 3,
+    "voice": 6,
     "note": "2G",
     "timestamp": 5.333333
 }, {
     "beat": 7,
-    "note": "3A",
+    "duration": 2,
+    "voice": 5,
+    "note": "3B",
     "timestamp": 6.222222
 }, {
-    "beat": 8,
-    "note": "3A",
-    "timestamp": 7.111111
-}, {
-    "beat": 8,
+    "beat": 7,
+    "duration": 2,
+    "voice": 5,
     "note": "4D",
-    "timestamp": 7.111111
+    "timestamp": 6.222222
+}, {
+    "beat": 7,
+    "duration": 2,
+    "voice": 5,
+    "note": "4F",
+    "timestamp": 6.222222
 }, {
     "beat": 9,
+    "duration": 3,
+    "voice": 6,
     "note": "2D",
     "timestamp": 8.0
 }, {
-    "beat": 9,
-    "note": "3B",
-    "timestamp": 8.0
+    "beat": 10,
+    "duration": 2,
+    "voice": 5,
+    "note": "3A",
+    "timestamp": 8.888889
 }, {
     "beat": 10,
+    "duration": 2,
+    "voice": 5,
     "note": "4C",
     "timestamp": 8.888889
 }, {
     "beat": 10,
-    "note": "4D",
+    "duration": 2,
+    "voice": 5,
+    "note": "4F",
     "timestamp": 8.888889
 }, {
-    "beat": 11,
-    "note": "4G",
-    "timestamp": 9.777778
-}, {
     "beat": 12,
-    "note": "4F",
-    "timestamp": 10.666667
-}, {
-    "beat": 12,
+    "duration": 3,
+    "voice": 6,
     "note": "2G",
     "timestamp": 10.666667
 }, {
     "beat": 13,
+    "duration": 1,
+    "voice": 1,
     "note": "5F",
     "timestamp": 11.555556
 }, {
+    "beat": 13,
+    "duration": 2,
+    "voice": 5,
+    "note": "3B",
+    "timestamp": 11.555556
+}, {
+    "beat": 13,
+    "duration": 2,
+    "voice": 5,
+    "note": "4D",
+    "timestamp": 11.555556
+}, {
+    "beat": 13,
+    "duration": 2,
+    "voice": 5,
+    "note": "4F",
+    "timestamp": 11.555556
+}, {
     "beat": 14,
+    "duration": 1,
+    "voice": 1,
     "note": "5A",
     "timestamp": 12.444444
 }, {
     "beat": 15,
-    "note": "3B",
-    "timestamp": 13.333333
-}, {
-    "beat": 15,
+    "duration": 1,
+    "voice": 1,
     "note": "5G",
     "timestamp": 13.333333
 }, {
     "beat": 15,
+    "duration": 3,
+    "voice": 6,
     "note": "2D",
     "timestamp": 13.333333
 }, {
     "beat": 16,
+    "duration": 1,
+    "voice": 1,
     "note": "5F",
     "timestamp": 14.222222
 }, {
-    "beat": 17,
-    "note": "4D",
-    "timestamp": 15.111111
+    "beat": 16,
+    "duration": 2,
+    "voice": 5,
+    "note": "3A",
+    "timestamp": 14.222222
+}, {
+    "beat": 16,
+    "duration": 2,
+    "voice": 5,
+    "note": "4C",
+    "timestamp": 14.222222
+}, {
+    "beat": 16,
+    "duration": 2,
+    "voice": 5,
+    "note": "4F",
+    "timestamp": 14.222222
 }, {
     "beat": 17,
+    "duration": 1,
+    "voice": 1,
     "note": "5C",
     "timestamp": 15.111111
 }, {
     "beat": 18,
+    "duration": 1,
+    "voice": 1,
     "note": "4B",
     "timestamp": 16.0
 }, {
     "beat": 18,
+    "duration": 3,
+    "voice": 6,
     "note": "2G",
     "timestamp": 16.0
 }, {
     "beat": 19,
-    "note": "4F",
-    "timestamp": 16.888889
-}, {
-    "beat": 19,
+    "duration": 1,
+    "voice": 1,
     "note": "5C",
     "timestamp": 16.888889
 }, {
+    "beat": 19,
+    "duration": 2,
+    "voice": 5,
+    "note": "3B",
+    "timestamp": 16.888889
+}, {
+    "beat": 19,
+    "duration": 2,
+    "voice": 5,
+    "note": "4D",
+    "timestamp": 16.888889
+}, {
+    "beat": 19,
+    "duration": 2,
+    "voice": 5,
+    "note": "4F",
+    "timestamp": 16.888889
+}, {
     "beat": 20,
+    "duration": 1,
+    "voice": 1,
     "note": "5D",
     "timestamp": 17.777778
 }, {
     "beat": 21,
+    "duration": 3,
+    "voice": 1,
     "note": "4A",
     "timestamp": 18.666667
 }, {
     "beat": 21,
+    "duration": 3,
+    "voice": 6,
     "note": "2D",
     "timestamp": 18.666667
 }, {
     "beat": 22,
+    "duration": 2,
+    "voice": 5,
     "note": "3A",
     "timestamp": 19.555556
 }, {
-    "beat": 24,
+    "beat": 22,
+    "duration": 2,
+    "voice": 5,
     "note": "4C",
-    "timestamp": 21.333333
+    "timestamp": 19.555556
+}, {
+    "beat": 22,
+    "duration": 2,
+    "voice": 5,
+    "note": "4F",
+    "timestamp": 19.555556
 }, {
     "beat": 24,
+    "duration": 3,
+    "voice": 1,
     "note": "4F",
     "timestamp": 21.333333
 }, {
     "beat": 24,
+    "duration": 3,
+    "voice": 6,
     "note": "2G",
     "timestamp": 21.333333
 }, {
-    "beat": 26,
+    "beat": 25,
+    "duration": 2,
+    "voice": 5,
+    "note": "3B",
+    "timestamp": 22.222222
+}, {
+    "beat": 25,
+    "duration": 2,
+    "voice": 5,
+    "note": "4D",
+    "timestamp": 22.222222
+}, {
+    "beat": 25,
+    "duration": 2,
+    "voice": 5,
     "note": "4F",
-    "timestamp": 23.111111
+    "timestamp": 22.222222
 }, {
     "beat": 27,
+    "duration": 3,
+    "voice": 1,
     "note": "4F",
     "timestamp": 24.0
 }, {
     "beat": 27,
+    "duration": 3,
+    "voice": 6,
     "note": "2D",
     "timestamp": 24.0
 }, {
-    "beat": 29,
-    "note": "3B",
-    "timestamp": 25.777778
+    "beat": 28,
+    "duration": 2,
+    "voice": 5,
+    "note": "3A",
+    "timestamp": 24.888889
+}, {
+    "beat": 28,
+    "duration": 2,
+    "voice": 5,
+    "note": "4C",
+    "timestamp": 24.888889
+}, {
+    "beat": 28,
+    "duration": 2,
+    "voice": 5,
+    "note": "4F",
+    "timestamp": 24.888889
 }, {
     "beat": 30,
+    "duration": 3,
+    "voice": 1,
     "note": "4F",
     "timestamp": 26.666667
 }, {
     "beat": 30,
+    "duration": 3,
+    "voice": 6,
     "note": "2G",
     "timestamp": 26.666667
 }, {
     "beat": 31,
+    "duration": 2,
+    "voice": 5,
+    "note": "3B",
+    "timestamp": 27.555556
+}, {
+    "beat": 31,
+    "duration": 2,
+    "voice": 5,
     "note": "4D",
     "timestamp": 27.555556
 }, {
+    "beat": 31,
+    "duration": 2,
+    "voice": 5,
+    "note": "4F",
+    "timestamp": 27.555556
+}, {
     "beat": 33,
+    "duration": 3,
+    "voice": 1,
     "note": "4F",
     "timestamp": 29.333333
 }, {
     "beat": 33,
-    "note": "4F",
-    "timestamp": 29.333333
-}, {
-    "beat": 33,
+    "duration": 3,
+    "voice": 6,
     "note": "2D",
     "timestamp": 29.333333
 }, {
-    "beat": 36,
+    "beat": 34,
+    "duration": 2,
+    "voice": 5,
     "note": "3A",
-    "timestamp": 32.0
+    "timestamp": 30.222222
+}, {
+    "beat": 34,
+    "duration": 2,
+    "voice": 5,
+    "note": "4C",
+    "timestamp": 30.222222
+}, {
+    "beat": 34,
+    "duration": 2,
+    "voice": 5,
+    "note": "4F",
+    "timestamp": 30.222222
 }, {
     "beat": 36,
+    "duration": 3,
+    "voice": 6,
     "note": "2G",
     "timestamp": 32.0
 }, {
     "beat": 37,
+    "duration": 1,
+    "voice": 1,
     "note": "5F",
     "timestamp": 32.888889
 }, {
-    "beat": 38,
-    "note": "4C",
-    "timestamp": 33.777778
+    "beat": 37,
+    "duration": 2,
+    "voice": 5,
+    "note": "3B",
+    "timestamp": 32.888889
+}, {
+    "beat": 37,
+    "duration": 2,
+    "voice": 5,
+    "note": "4D",
+    "timestamp": 32.888889
+}, {
+    "beat": 37,
+    "duration": 2,
+    "voice": 5,
+    "note": "4F",
+    "timestamp": 32.888889
 }, {
     "beat": 38,
+    "duration": 1,
+    "voice": 1,
     "note": "5A",
     "timestamp": 33.777778
 }, {
     "beat": 39,
+    "duration": 1,
+    "voice": 1,
     "note": "5G",
     "timestamp": 34.666667
 }, {
     "beat": 39,
+    "duration": 3,
+    "voice": 6,
     "note": "2D",
     "timestamp": 34.666667
 }, {
     "beat": 40,
-    "note": "4F",
-    "timestamp": 35.555556
-}, {
-    "beat": 40,
+    "duration": 1,
+    "voice": 1,
     "note": "5F",
     "timestamp": 35.555556
 }, {
+    "beat": 40,
+    "duration": 2,
+    "voice": 5,
+    "note": "3A",
+    "timestamp": 35.555556
+}, {
+    "beat": 40,
+    "duration": 2,
+    "voice": 5,
+    "note": "4C",
+    "timestamp": 35.555556
+}, {
+    "beat": 40,
+    "duration": 2,
+    "voice": 5,
+    "note": "4F",
+    "timestamp": 35.555556
+}, {
     "beat": 41,
+    "duration": 1,
+    "voice": 1,
     "note": "5C",
     "timestamp": 36.444444
 }, {
     "beat": 42,
+    "duration": 1,
+    "voice": 1,
     "note": "4B",
     "timestamp": 37.333333
 }, {
     "beat": 42,
+    "duration": 3,
+    "voice": 6,
     "note": "2G",
     "timestamp": 37.333333
 }, {
     "beat": 43,
+    "duration": 1,
+    "voice": 1,
+    "note": "5C",
+    "timestamp": 38.222222
+}, {
+    "beat": 43,
+    "duration": 2,
+    "voice": 5,
     "note": "3B",
     "timestamp": 38.222222
 }, {
     "beat": 43,
-    "note": "5C",
+    "duration": 2,
+    "voice": 5,
+    "note": "4D",
+    "timestamp": 38.222222
+}, {
+    "beat": 43,
+    "duration": 2,
+    "voice": 5,
+    "note": "4F",
     "timestamp": 38.222222
 }, {
     "beat": 44,
+    "duration": 1,
+    "voice": 1,
     "note": "5D",
     "timestamp": 39.111111
 }, {
     "beat": 45,
-    "note": "4D",
-    "timestamp": 40.0
-}, {
-    "beat": 45,
+    "duration": 3,
+    "voice": 1,
     "note": "4A",
     "timestamp": 40.0
 }, {
     "beat": 45,
+    "duration": 3,
+    "voice": 6,
     "note": "2D",
     "timestamp": 40.0
 }, {
-    "beat": 47,
+    "beat": 46,
+    "duration": 2,
+    "voice": 5,
+    "note": "3A",
+    "timestamp": 40.888889
+}, {
+    "beat": 46,
+    "duration": 2,
+    "voice": 5,
+    "note": "4C",
+    "timestamp": 40.888889
+}, {
+    "beat": 46,
+    "duration": 2,
+    "voice": 5,
     "note": "4F",
-    "timestamp": 41.777778
+    "timestamp": 40.888889
 }, {
     "beat": 48,
+    "duration": 3,
+    "voice": 1,
     "note": "5C",
     "timestamp": 42.666667
 }, {
     "beat": 48,
+    "duration": 3,
+    "voice": 6,
     "note": "2F",
     "timestamp": 42.666667
 }, {
-    "beat": 50,
+    "beat": 49,
+    "duration": 2,
+    "voice": 5,
     "note": "3A",
-    "timestamp": 44.444444
+    "timestamp": 43.555556
+}, {
+    "beat": 49,
+    "duration": 2,
+    "voice": 5,
+    "note": "4C",
+    "timestamp": 43.555556
+}, {
+    "beat": 49,
+    "duration": 2,
+    "voice": 5,
+    "note": "4F",
+    "timestamp": 43.555556
 }, {
     "beat": 51,
+    "duration": 3,
+    "voice": 1,
     "note": "5F",
     "timestamp": 45.333333
 }, {
     "beat": 51,
+    "duration": 3,
+    "voice": 6,
     "note": "1B",
     "timestamp": 45.333333
 }, {
     "beat": 52,
-    "note": "4C",
+    "duration": 2,
+    "voice": 5,
+    "note": "3B",
+    "timestamp": 46.222222
+}, {
+    "beat": 52,
+    "duration": 2,
+    "voice": 5,
+    "note": "4D",
+    "timestamp": 46.222222
+}, {
+    "beat": 52,
+    "duration": 2,
+    "voice": 5,
+    "note": "4F",
     "timestamp": 46.222222
 }, {
     "beat": 54,
-    "note": "4F",
-    "timestamp": 48.0
-}, {
-    "beat": 54,
+    "duration": 3,
+    "voice": 1,
     "note": "4E",
     "timestamp": 48.0
 }, {
     "beat": 54,
+    "duration": 3,
+    "voice": 6,
     "note": "2E",
     "timestamp": 48.0
 }, {
-    "beat": 57,
+    "beat": 55,
+    "duration": 2,
+    "voice": 5,
+    "note": "3G",
+    "timestamp": 48.888889
+}, {
+    "beat": 55,
+    "duration": 2,
+    "voice": 5,
     "note": "3B",
-    "timestamp": 50.666667
+    "timestamp": 48.888889
 }, {
     "beat": 57,
+    "duration": 3,
+    "voice": 1,
     "note": "4E",
     "timestamp": 50.666667
 }, {
     "beat": 57,
+    "duration": 3,
+    "voice": 6,
     "note": "2E",
     "timestamp": 50.666667
 }, {
-    "beat": 59,
+    "beat": 58,
+    "duration": 2,
+    "voice": 5,
+    "note": "3B",
+    "timestamp": 51.555556
+}, {
+    "beat": 58,
+    "duration": 2,
+    "voice": 5,
     "note": "4D",
-    "timestamp": 52.444444
+    "timestamp": 51.555556
+}, {
+    "beat": 58,
+    "duration": 2,
+    "voice": 5,
+    "note": "4G",
+    "timestamp": 51.555556
 }, {
     "beat": 60,
+    "duration": 3,
+    "voice": 1,
     "note": "4E",
     "timestamp": 53.333333
 }, {
     "beat": 60,
+    "duration": 3,
+    "voice": 6,
     "note": "2D",
     "timestamp": 53.333333
 }, {
     "beat": 61,
-    "note": "4F",
+    "duration": 2,
+    "voice": 5,
+    "note": "3F",
+    "timestamp": 54.222222
+}, {
+    "beat": 61,
+    "duration": 2,
+    "voice": 5,
+    "note": "3A",
+    "timestamp": 54.222222
+}, {
+    "beat": 61,
+    "duration": 2,
+    "voice": 5,
+    "note": "4D",
     "timestamp": 54.222222
 }, {
     "beat": 63,
+    "duration": 1,
+    "voice": 1,
     "note": "4A",
     "timestamp": 56.0
 }, {
     "beat": 63,
+    "duration": 3,
+    "voice": 6,
     "note": "1A",
     "timestamp": 56.0
 }, {
     "beat": 64,
+    "duration": 1,
+    "voice": 1,
+    "note": "4B",
+    "timestamp": 56.888889
+}, {
+    "beat": 64,
+    "duration": 2,
+    "voice": 5,
     "note": "3A",
     "timestamp": 56.888889
 }, {
     "beat": 64,
-    "note": "4B",
+    "duration": 2,
+    "voice": 5,
+    "note": "4C",
+    "timestamp": 56.888889
+}, {
+    "beat": 64,
+    "duration": 2,
+    "voice": 5,
+    "note": "4E",
     "timestamp": 56.888889
 }, {
     "beat": 65,
+    "duration": 1,
+    "voice": 1,
     "note": "5C",
     "timestamp": 57.777778
 }, {
     "beat": 66,
-    "note": "4C",
-    "timestamp": 58.666667
-}, {
-    "beat": 66,
+    "duration": 1,
+    "voice": 1,
     "note": "5E",
     "timestamp": 58.666667
 }, {
     "beat": 66,
+    "duration": 3,
+    "voice": 6,
     "note": "2D",
     "timestamp": 58.666667
 }, {
     "beat": 67,
+    "duration": 1,
+    "voice": 1,
     "note": "5D",
     "timestamp": 59.555556
 }, {
-    "beat": 68,
-    "note": "4F",
-    "timestamp": 60.444444
+    "beat": 67,
+    "duration": 2,
+    "voice": 5,
+    "note": "3G",
+    "timestamp": 59.555556
+}, {
+    "beat": 67,
+    "duration": 2,
+    "voice": 5,
+    "note": "3B",
+    "timestamp": 59.555556
+}, {
+    "beat": 67,
+    "duration": 2,
+    "voice": 5,
+    "note": "4E",
+    "timestamp": 59.555556
 }, {
     "beat": 68,
+    "duration": 1,
+    "voice": 1,
     "note": "4B",
     "timestamp": 60.444444
 }, {
     "beat": 69,
+    "duration": 1,
+    "voice": 1,
     "note": "5D",
     "timestamp": 61.333333
 }, {
     "beat": 69,
+    "duration": 3,
+    "voice": 6,
     "note": "2D",
     "timestamp": 61.333333
 }, {
     "beat": 70,
+    "duration": 1,
+    "voice": 1,
     "note": "5C",
     "timestamp": 62.222222
 }, {
-    "beat": 71,
+    "beat": 70,
+    "duration": 2,
+    "voice": 5,
+    "note": "3D",
+    "timestamp": 62.222222
+}, {
+    "beat": 70,
+    "duration": 2,
+    "voice": 5,
+    "note": "3G",
+    "timestamp": 62.222222
+}, {
+    "beat": 70,
+    "duration": 2,
+    "voice": 5,
     "note": "3B",
-    "timestamp": 63.111111
+    "timestamp": 62.222222
+}, {
+    "beat": 70,
+    "duration": 2,
+    "voice": 5,
+    "note": "4E",
+    "timestamp": 62.222222
 }, {
     "beat": 71,
+    "duration": 1,
+    "voice": 1,
     "note": "4B",
     "timestamp": 63.111111
 }, {
     "beat": 72,
+    "duration": 3,
+    "voice": 1,
     "note": "5D",
     "timestamp": 64.0
 }, {
     "beat": 72,
+    "duration": 3,
+    "voice": 6,
     "note": "2D",
     "timestamp": 64.0
 }, {
     "beat": 73,
+    "duration": 2,
+    "voice": 5,
+    "note": "3C",
+    "timestamp": 64.888889
+}, {
+    "beat": 73,
+    "duration": 2,
+    "voice": 5,
+    "note": "3E",
+    "timestamp": 64.888889
+}, {
+    "beat": 73,
+    "duration": 2,
+    "voice": 5,
+    "note": "3A",
+    "timestamp": 64.888889
+}, {
+    "beat": 73,
+    "duration": 2,
+    "voice": 5,
     "note": "4D",
     "timestamp": 64.888889
 }, {
     "beat": 75,
-    "note": "4F",
-    "timestamp": 66.666667
-}, {
-    "beat": 75,
+    "duration": 2,
+    "voice": 1,
     "note": "5D",
     "timestamp": 66.666667
 }, {
     "beat": 75,
+    "duration": 3,
+    "voice": 6,
     "note": "2D",
     "timestamp": 66.666667
 }, {
+    "beat": 76,
+    "duration": 2,
+    "voice": 5,
+    "note": "3C",
+    "timestamp": 67.555556
+}, {
+    "beat": 76,
+    "duration": 2,
+    "voice": 5,
+    "note": "3F",
+    "timestamp": 67.555556
+}, {
+    "beat": 76,
+    "duration": 2,
+    "voice": 5,
+    "note": "3A",
+    "timestamp": 67.555556
+}, {
+    "beat": 76,
+    "duration": 2,
+    "voice": 5,
+    "note": "4D",
+    "timestamp": 67.555556
+}, {
     "beat": 77,
+    "duration": 1,
+    "voice": 1,
     "note": "5D",
     "timestamp": 68.444444
 }, {
     "beat": 78,
-    "note": "3A",
-    "timestamp": 69.333333
-}, {
-    "beat": 78,
+    "duration": 1,
+    "voice": 1,
     "note": "5E",
     "timestamp": 69.333333
 }, {
     "beat": 78,
+    "duration": 3,
+    "voice": 6,
     "note": "2D",
     "timestamp": 69.333333
 }, {
     "beat": 79,
+    "duration": 1,
+    "voice": 1,
     "note": "5F",
     "timestamp": 70.222222
 }, {
-    "beat": 80,
+    "beat": 79,
+    "duration": 2,
+    "voice": 5,
+    "note": "3A",
+    "timestamp": 70.222222
+}, {
+    "beat": 79,
+    "duration": 2,
+    "voice": 5,
     "note": "4C",
-    "timestamp": 71.111111
+    "timestamp": 70.222222
+}, {
+    "beat": 79,
+    "duration": 2,
+    "voice": 5,
+    "note": "4F",
+    "timestamp": 70.222222
 }, {
     "beat": 80,
+    "duration": 1,
+    "voice": 1,
     "note": "5G",
     "timestamp": 71.111111
 }, {
     "beat": 81,
+    "duration": 1,
+    "voice": 1,
     "note": "5A",
     "timestamp": 72.0
 }, {
     "beat": 81,
+    "duration": 3,
+    "voice": 6,
     "note": "2D",
     "timestamp": 72.0
 }, {
     "beat": 82,
-    "note": "4F",
-    "timestamp": 72.888889
-}, {
-    "beat": 82,
+    "duration": 1,
+    "voice": 1,
     "note": "5C",
     "timestamp": 72.888889
 }, {
+    "beat": 82,
+    "duration": 2,
+    "voice": 5,
+    "note": "3A",
+    "timestamp": 72.888889
+}, {
+    "beat": 82,
+    "duration": 2,
+    "voice": 5,
+    "note": "4C",
+    "timestamp": 72.888889
+}, {
+    "beat": 82,
+    "duration": 2,
+    "voice": 5,
+    "note": "4E",
+    "timestamp": 72.888889
+}, {
     "beat": 83,
+    "duration": 1,
+    "voice": 1,
     "note": "5D",
     "timestamp": 73.777778
 }, {
     "beat": 84,
+    "duration": 1,
+    "voice": 1,
     "note": "5E",
     "timestamp": 74.666667
 }, {
     "beat": 84,
+    "duration": 3,
+    "voice": 6,
     "note": "2D",
     "timestamp": 74.666667
 }, {
     "beat": 85,
+    "duration": 1,
+    "voice": 1,
+    "note": "5D",
+    "timestamp": 75.555556
+}, {
+    "beat": 85,
+    "duration": 2,
+    "voice": 5,
+    "note": "3D",
+    "timestamp": 75.555556
+}, {
+    "beat": 85,
+    "duration": 2,
+    "voice": 5,
+    "note": "3G",
+    "timestamp": 75.555556
+}, {
+    "beat": 85,
+    "duration": 2,
+    "voice": 5,
     "note": "3B",
     "timestamp": 75.555556
 }, {
     "beat": 85,
-    "note": "5D",
+    "duration": 2,
+    "voice": 5,
+    "note": "4E",
     "timestamp": 75.555556
 }, {
     "beat": 86,
+    "duration": 1,
+    "voice": 1,
     "note": "4B",
     "timestamp": 76.444444
 }, {
     "beat": 87,
-    "note": "4D",
-    "timestamp": 77.333333
-}, {
-    "beat": 87,
+    "duration": 3,
+    "voice": 1,
     "note": "5D",
     "timestamp": 77.333333
 }, {
     "beat": 87,
+    "duration": 3,
+    "voice": 6,
     "note": "2D",
     "timestamp": 77.333333
 }, {
-    "beat": 89,
-    "note": "4F",
-    "timestamp": 79.111111
+    "beat": 88,
+    "duration": 2,
+    "voice": 5,
+    "note": "3C",
+    "timestamp": 78.222222
 }, {
-    "beat": 90,
-    "note": "5D",
-    "timestamp": 80.0
+    "beat": 88,
+    "duration": 2,
+    "voice": 5,
+    "note": "3E",
+    "timestamp": 78.222222
 }, {
-    "beat": 90,
-    "note": "2D",
-    "timestamp": 80.0
-}, {
-    "beat": 92,
+    "beat": 88,
+    "duration": 2,
+    "voice": 5,
     "note": "3A",
-    "timestamp": 81.777778
+    "timestamp": 78.222222
+}, {
+    "beat": 88,
+    "duration": 2,
+    "voice": 5,
+    "note": "4D",
+    "timestamp": 78.222222
+}, {
+    "beat": 90,
+    "duration": 2,
+    "voice": 1,
+    "note": "5D",
+    "timestamp": 80.0
+}, {
+    "beat": 90,
+    "duration": 3,
+    "voice": 6,
+    "note": "2D",
+    "timestamp": 80.0
+}, {
+    "beat": 91,
+    "duration": 2,
+    "voice": 5,
+    "note": "3C",
+    "timestamp": 80.888889
+}, {
+    "beat": 91,
+    "duration": 2,
+    "voice": 5,
+    "note": "3F",
+    "timestamp": 80.888889
+}, {
+    "beat": 91,
+    "duration": 2,
+    "voice": 5,
+    "note": "3A",
+    "timestamp": 80.888889
+}, {
+    "beat": 91,
+    "duration": 2,
+    "voice": 5,
+    "note": "4D",
+    "timestamp": 80.888889
 }, {
     "beat": 92,
+    "duration": 1,
+    "voice": 1,
     "note": "5D",
     "timestamp": 81.777778
 }, {
     "beat": 93,
+    "duration": 3,
+    "voice": 1,
     "note": "5G",
     "timestamp": 82.666667
 }, {
     "beat": 93,
+    "duration": 3,
+    "voice": 6,
     "note": "2E",
     "timestamp": 82.666667
 }, {
     "beat": 94,
-    "note": "4C",
+    "duration": 2,
+    "voice": 5,
+    "note": "3B",
+    "timestamp": 83.555556
+}, {
+    "beat": 94,
+    "duration": 2,
+    "voice": 5,
+    "note": "4E",
+    "timestamp": 83.555556
+}, {
+    "beat": 94,
+    "duration": 2,
+    "voice": 5,
+    "note": "4G",
     "timestamp": 83.555556
 }, {
     "beat": 96,
-    "note": "4F",
-    "timestamp": 85.333333
-}, {
-    "beat": 96,
+    "duration": 3,
+    "voice": 1,
     "note": "5F",
     "timestamp": 85.333333
 }, {
     "beat": 96,
+    "duration": 3,
+    "voice": 6,
     "note": "2F",
     "timestamp": 85.333333
 }, {
-    "beat": 99,
-    "note": "3B",
-    "timestamp": 88.0
+    "beat": 97,
+    "duration": 2,
+    "voice": 5,
+    "note": "3A",
+    "timestamp": 86.222222
+}, {
+    "beat": 97,
+    "duration": 2,
+    "voice": 5,
+    "note": "4C",
+    "timestamp": 86.222222
+}, {
+    "beat": 97,
+    "duration": 2,
+    "voice": 5,
+    "note": "4F",
+    "timestamp": 86.222222
 }, {
     "beat": 99,
+    "duration": 1,
+    "voice": 1,
     "note": "4B",
     "timestamp": 88.0
 }, {
     "beat": 99,
+    "duration": 3,
+    "voice": 6,
     "note": "1B",
     "timestamp": 88.0
 }, {
     "beat": 100,
+    "duration": 1,
+    "voice": 1,
     "note": "4A",
     "timestamp": 88.888889
 }, {
-    "beat": 101,
+    "beat": 100,
+    "duration": 2,
+    "voice": 5,
+    "note": "3B",
+    "timestamp": 88.888889
+}, {
+    "beat": 100,
+    "duration": 2,
+    "voice": 5,
     "note": "4D",
-    "timestamp": 89.777778
+    "timestamp": 88.888889
+}, {
+    "beat": 100,
+    "duration": 2,
+    "voice": 5,
+    "note": "4F",
+    "timestamp": 88.888889
 }, {
     "beat": 101,
+    "duration": 1,
+    "voice": 1,
     "note": "4B",
     "timestamp": 89.777778
 }, {
     "beat": 102,
+    "duration": 1,
+    "voice": 1,
     "note": "5C",
     "timestamp": 90.666667
 }, {
     "beat": 102,
+    "duration": 3,
+    "voice": 6,
     "note": "2E",
     "timestamp": 90.666667
 }, {
     "beat": 103,
-    "note": "4F",
-    "timestamp": 91.555556
-}, {
-    "beat": 103,
+    "duration": 1,
+    "voice": 1,
     "note": "5D",
     "timestamp": 91.555556
 }, {
+    "beat": 103,
+    "duration": 2,
+    "voice": 5,
+    "note": "4C",
+    "timestamp": 91.555556
+}, {
+    "beat": 103,
+    "duration": 2,
+    "voice": 5,
+    "note": "4E",
+    "timestamp": 91.555556
+}, {
+    "beat": 103,
+    "duration": 2,
+    "voice": 5,
+    "note": "4A",
+    "timestamp": 91.555556
+}, {
     "beat": 104,
+    "duration": 1,
+    "voice": 1,
     "note": "5E",
     "timestamp": 92.444444
 }, {
     "beat": 105,
+    "duration": 1,
+    "voice": 1,
     "note": "5C",
     "timestamp": 93.333333
 }, {
     "beat": 105,
+    "duration": 3,
+    "voice": 6,
     "note": "2E",
     "timestamp": 93.333333
 }, {
     "beat": 106,
+    "duration": 1,
+    "voice": 1,
+    "note": "5D",
+    "timestamp": 94.222222
+}, {
+    "beat": 106,
+    "duration": 2,
+    "voice": 5,
     "note": "3A",
     "timestamp": 94.222222
 }, {
     "beat": 106,
-    "note": "5D",
+    "duration": 2,
+    "voice": 5,
+    "note": "4C",
+    "timestamp": 94.222222
+}, {
+    "beat": 106,
+    "duration": 2,
+    "voice": 5,
+    "note": "4F",
+    "timestamp": 94.222222
+}, {
+    "beat": 106,
+    "duration": 2,
+    "voice": 5,
+    "note": "4A",
     "timestamp": 94.222222
 }, {
     "beat": 107,
+    "duration": 1,
+    "voice": 1,
     "note": "5E",
     "timestamp": 95.111111
 }, {
     "beat": 108,
-    "note": "4C",
-    "timestamp": 96.0
-}, {
-    "beat": 108,
+    "duration": 3,
+    "voice": 1,
     "note": "4F",
     "timestamp": 96.0
 }, {
     "beat": 108,
+    "duration": 3,
+    "voice": 6,
     "note": "2E",
     "timestamp": 96.0
 }, {
+    "beat": 109,
+    "duration": 1,
+    "voice": 2,
+    "note": "3A",
+    "timestamp": 96.888889
+}, {
+    "beat": 109,
+    "duration": 1,
+    "voice": 2,
+    "note": "4D",
+    "timestamp": 96.888889
+}, {
+    "beat": 109,
+    "duration": 1,
+    "voice": 5,
+    "note": "2B",
+    "timestamp": 96.888889
+}, {
     "beat": 110,
-    "note": "4F",
+    "duration": 1,
+    "voice": 2,
+    "note": "3B",
+    "timestamp": 97.777778
+}, {
+    "beat": 110,
+    "duration": 1,
+    "voice": 2,
+    "note": "4D",
+    "timestamp": 97.777778
+}, {
+    "beat": 110,
+    "duration": 1,
+    "voice": 2,
+    "note": "4G",
+    "timestamp": 97.777778
+}, {
+    "beat": 110,
+    "duration": 1,
+    "voice": 5,
+    "note": "3E",
     "timestamp": 97.777778
 }, {
     "beat": 111,
+    "duration": 3,
+    "voice": 1,
     "note": "4C",
     "timestamp": 98.666667
 }, {
     "beat": 111,
-    "note": "2G",
+    "duration": 3,
+    "voice": 1,
+    "note": "4E",
     "timestamp": 98.666667
 }, {
-    "beat": 113,
-    "note": "3A",
-    "timestamp": 100.444444
+    "beat": 111,
+    "duration": 3,
+    "voice": 1,
+    "note": "4A",
+    "timestamp": 98.666667
+}, {
+    "beat": 111,
+    "duration": 3,
+    "voice": 1,
+    "note": "5C",
+    "timestamp": 98.666667
+}, {
+    "beat": 111,
+    "duration": 3,
+    "voice": 5,
+    "note": "2A",
+    "timestamp": 98.666667
+}, {
+    "beat": 111,
+    "duration": 3,
+    "voice": 5,
+    "note": "3G",
+    "timestamp": 98.666667
 }, {
     "beat": 114,
-    "note": "4E",
+    "duration": 3,
+    "voice": 1,
+    "note": "4D",
     "timestamp": 101.333333
 }, {
     "beat": 114,
+    "duration": 3,
+    "voice": 1,
+    "note": "4F",
+    "timestamp": 101.333333
+}, {
+    "beat": 114,
+    "duration": 3,
+    "voice": 1,
+    "note": "4A",
+    "timestamp": 101.333333
+}, {
+    "beat": 114,
+    "duration": 3,
+    "voice": 1,
+    "note": "5D",
+    "timestamp": 101.333333
+}, {
+    "beat": 114,
+    "duration": 3,
+    "voice": 5,
     "note": "2D",
     "timestamp": 101.333333
 }, {
-    "beat": 115,
-    "note": "4C",
-    "timestamp": 102.222222
+    "beat": 114,
+    "duration": 3,
+    "voice": 5,
+    "note": "2A",
+    "timestamp": 101.333333
+}, {
+    "beat": 114,
+    "duration": 3,
+    "voice": 5,
+    "note": "3D",
+    "timestamp": 101.333333
 }, {
     "beat": 117,
-    "note": "4F",
-    "timestamp": 104.0
-}, {
-    "beat": 117,
-    "note": "4A",
-    "timestamp": 104.0
-}, {
-    "beat": 117,
+    "duration": 3,
+    "voice": 6,
     "note": "2G",
     "timestamp": 104.0
 }, {
-    "beat": 120,
+    "beat": 118,
+    "duration": 2,
+    "voice": 5,
     "note": "3B",
-    "timestamp": 106.666667
+    "timestamp": 104.888889
+}, {
+    "beat": 118,
+    "duration": 2,
+    "voice": 5,
+    "note": "4D",
+    "timestamp": 104.888889
+}, {
+    "beat": 118,
+    "duration": 2,
+    "voice": 5,
+    "note": "4F",
+    "timestamp": 104.888889
 }, {
     "beat": 120,
-    "note": "5C",
-    "timestamp": 106.666667
-}, {
-    "beat": 120,
+    "duration": 3,
+    "voice": 6,
     "note": "2D",
     "timestamp": 106.666667
 }, {
-    "beat": 122,
-    "note": "4D",
-    "timestamp": 108.444444
+    "beat": 121,
+    "duration": 2,
+    "voice": 5,
+    "note": "3A",
+    "timestamp": 107.555556
+}, {
+    "beat": 121,
+    "duration": 2,
+    "voice": 5,
+    "note": "4C",
+    "timestamp": 107.555556
+}, {
+    "beat": 121,
+    "duration": 2,
+    "voice": 5,
+    "note": "4F",
+    "timestamp": 107.555556
 }, {
     "beat": 123,
-    "note": "4D",
-    "timestamp": 109.333333
-}, {
-    "beat": 123,
+    "duration": 3,
+    "voice": 6,
     "note": "2G",
     "timestamp": 109.333333
 }, {
     "beat": 124,
+    "duration": 2,
+    "voice": 5,
+    "note": "3B",
+    "timestamp": 110.222222
+}, {
+    "beat": 124,
+    "duration": 2,
+    "voice": 5,
+    "note": "4D",
+    "timestamp": 110.222222
+}, {
+    "beat": 124,
+    "duration": 2,
+    "voice": 5,
     "note": "4F",
     "timestamp": 110.222222
 }, {
     "beat": 126,
-    "note": "4F",
-    "timestamp": 112.0
-}, {
-    "beat": 126,
+    "duration": 3,
+    "voice": 6,
     "note": "2D",
     "timestamp": 112.0
 }, {
     "beat": 127,
-    "note": "3G",
+    "duration": 2,
+    "voice": 5,
+    "note": "3A",
+    "timestamp": 112.888889
+}, {
+    "beat": 127,
+    "duration": 2,
+    "voice": 5,
+    "note": "4C",
+    "timestamp": 112.888889
+}, {
+    "beat": 127,
+    "duration": 2,
+    "voice": 5,
+    "note": "4F",
     "timestamp": 112.888889
 }, {
     "beat": 129,
-    "note": "3B",
-    "timestamp": 114.666667
-}, {
-    "beat": 129,
-    "note": "4A",
-    "timestamp": 114.666667
-}, {
-    "beat": 129,
+    "duration": 3,
+    "voice": 6,
     "note": "2G",
     "timestamp": 114.666667
 }, {
-    "beat": 132,
+    "beat": 130,
+    "duration": 1,
+    "voice": 1,
+    "note": "5F",
+    "timestamp": 115.555556
+}, {
+    "beat": 130,
+    "duration": 2,
+    "voice": 5,
     "note": "3B",
+    "timestamp": 115.555556
+}, {
+    "beat": 130,
+    "duration": 2,
+    "voice": 5,
+    "note": "4D",
+    "timestamp": 115.555556
+}, {
+    "beat": 130,
+    "duration": 2,
+    "voice": 5,
+    "note": "4F",
+    "timestamp": 115.555556
+}, {
+    "beat": 131,
+    "duration": 1,
+    "voice": 1,
+    "note": "5A",
+    "timestamp": 116.444444
+}, {
+    "beat": 132,
+    "duration": 1,
+    "voice": 1,
+    "note": "5G",
     "timestamp": 117.333333
 }, {
     "beat": 132,
-    "note": "5D",
-    "timestamp": 117.333333
-}, {
-    "beat": 132,
+    "duration": 3,
+    "voice": 6,
     "note": "2D",
     "timestamp": 117.333333
 }, {
+    "beat": 133,
+    "duration": 1,
+    "voice": 1,
+    "note": "5F",
+    "timestamp": 118.222222
+}, {
+    "beat": 133,
+    "duration": 2,
+    "voice": 5,
+    "note": "3A",
+    "timestamp": 118.222222
+}, {
+    "beat": 133,
+    "duration": 2,
+    "voice": 5,
+    "note": "4C",
+    "timestamp": 118.222222
+}, {
+    "beat": 133,
+    "duration": 2,
+    "voice": 5,
+    "note": "4F",
+    "timestamp": 118.222222
+}, {
     "beat": 134,
-    "note": "4D",
+    "duration": 1,
+    "voice": 1,
+    "note": "5C",
     "timestamp": 119.111111
 }, {
     "beat": 135,
+    "duration": 1,
+    "voice": 1,
+    "note": "4B",
+    "timestamp": 120.0
+}, {
+    "beat": 135,
+    "duration": 3,
+    "voice": 6,
     "note": "2G",
     "timestamp": 120.0
 }, {
     "beat": 136,
-    "note": "4G",
+    "duration": 1,
+    "voice": 1,
+    "note": "5C",
     "timestamp": 120.888889
 }, {
+    "beat": 136,
+    "duration": 2,
+    "voice": 5,
+    "note": "3B",
+    "timestamp": 120.888889
+}, {
+    "beat": 136,
+    "duration": 2,
+    "voice": 5,
+    "note": "4D",
+    "timestamp": 120.888889
+}, {
+    "beat": 136,
+    "duration": 2,
+    "voice": 5,
+    "note": "4F",
+    "timestamp": 120.888889
+}, {
+    "beat": 137,
+    "duration": 1,
+    "voice": 1,
+    "note": "5D",
+    "timestamp": 121.777778
+}, {
     "beat": 138,
+    "duration": 3,
+    "voice": 1,
+    "note": "4A",
+    "timestamp": 122.666667
+}, {
+    "beat": 138,
+    "duration": 3,
+    "voice": 6,
     "note": "2D",
     "timestamp": 122.666667
 }, {
     "beat": 139,
-    "note": "3F",
+    "duration": 2,
+    "voice": 5,
+    "note": "3A",
+    "timestamp": 123.555556
+}, {
+    "beat": 139,
+    "duration": 2,
+    "voice": 5,
+    "note": "4C",
+    "timestamp": 123.555556
+}, {
+    "beat": 139,
+    "duration": 2,
+    "voice": 5,
+    "note": "4F",
     "timestamp": 123.555556
 }, {
     "beat": 141,
-    "note": "3A",
+    "duration": 3,
+    "voice": 1,
+    "note": "4F",
     "timestamp": 125.333333
 }, {
     "beat": 141,
+    "duration": 3,
+    "voice": 6,
     "note": "2G",
     "timestamp": 125.333333
 }, {
-    "beat": 143,
+    "beat": 142,
+    "duration": 2,
+    "voice": 5,
+    "note": "3B",
+    "timestamp": 126.222222
+}, {
+    "beat": 142,
+    "duration": 2,
+    "voice": 5,
     "note": "4D",
-    "timestamp": 127.111111
+    "timestamp": 126.222222
+}, {
+    "beat": 142,
+    "duration": 2,
+    "voice": 5,
+    "note": "4F",
+    "timestamp": 126.222222
 }, {
     "beat": 144,
+    "duration": 3,
+    "voice": 1,
+    "note": "4F",
+    "timestamp": 128.0
+}, {
+    "beat": 144,
+    "duration": 3,
+    "voice": 6,
     "note": "2D",
     "timestamp": 128.0
 }, {
-    "beat": 146,
+    "beat": 145,
+    "duration": 2,
+    "voice": 5,
     "note": "3A",
-    "timestamp": 129.777778
+    "timestamp": 128.888889
+}, {
+    "beat": 145,
+    "duration": 2,
+    "voice": 5,
+    "note": "4C",
+    "timestamp": 128.888889
+}, {
+    "beat": 145,
+    "duration": 2,
+    "voice": 5,
+    "note": "4F",
+    "timestamp": 128.888889
 }, {
     "beat": 147,
+    "duration": 3,
+    "voice": 1,
+    "note": "4F",
+    "timestamp": 130.666667
+}, {
+    "beat": 147,
+    "duration": 3,
+    "voice": 6,
     "note": "2G",
     "timestamp": 130.666667
 }, {
     "beat": 148,
-    "note": "4C",
+    "duration": 2,
+    "voice": 5,
+    "note": "3B",
     "timestamp": 131.555556
 }, {
     "beat": 148,
-    "note": "5F",
+    "duration": 2,
+    "voice": 5,
+    "note": "4D",
     "timestamp": 131.555556
 }, {
-    "beat": 149,
-    "note": "5A",
-    "timestamp": 132.444444
+    "beat": 148,
+    "duration": 2,
+    "voice": 5,
+    "note": "4F",
+    "timestamp": 131.555556
 }, {
     "beat": 150,
-    "note": "4E",
+    "duration": 3,
+    "voice": 1,
+    "note": "4F",
     "timestamp": 133.333333
 }, {
     "beat": 150,
-    "note": "5G",
-    "timestamp": 133.333333
-}, {
-    "beat": 150,
+    "duration": 3,
+    "voice": 6,
     "note": "2D",
     "timestamp": 133.333333
 }, {
     "beat": 151,
-    "note": "5F",
+    "duration": 2,
+    "voice": 5,
+    "note": "3A",
     "timestamp": 134.222222
 }, {
-    "beat": 152,
-    "note": "5C",
-    "timestamp": 135.111111
+    "beat": 151,
+    "duration": 2,
+    "voice": 5,
+    "note": "4C",
+    "timestamp": 134.222222
+}, {
+    "beat": 151,
+    "duration": 2,
+    "voice": 5,
+    "note": "4F",
+    "timestamp": 134.222222
 }, {
     "beat": 153,
-    "note": "3G",
-    "timestamp": 136.0
-}, {
-    "beat": 153,
-    "note": "4B",
-    "timestamp": 136.0
-}, {
-    "beat": 153,
+    "duration": 3,
+    "voice": 6,
     "note": "2G",
     "timestamp": 136.0
 }, {
     "beat": 154,
-    "note": "5C",
+    "duration": 1,
+    "voice": 1,
+    "note": "5F",
+    "timestamp": 136.888889
+}, {
+    "beat": 154,
+    "duration": 2,
+    "voice": 5,
+    "note": "3B",
+    "timestamp": 136.888889
+}, {
+    "beat": 154,
+    "duration": 2,
+    "voice": 5,
+    "note": "4D",
+    "timestamp": 136.888889
+}, {
+    "beat": 154,
+    "duration": 2,
+    "voice": 5,
+    "note": "4F",
     "timestamp": 136.888889
 }, {
     "beat": 155,
-    "note": "3B",
-    "timestamp": 137.777778
-}, {
-    "beat": 155,
-    "note": "5D",
+    "duration": 1,
+    "voice": 1,
+    "note": "5A",
     "timestamp": 137.777778
 }, {
     "beat": 156,
-    "note": "4A",
+    "duration": 1,
+    "voice": 1,
+    "note": "5G",
     "timestamp": 138.666667
 }, {
     "beat": 156,
+    "duration": 3,
+    "voice": 6,
     "note": "2D",
     "timestamp": 138.666667
 }, {
     "beat": 157,
-    "note": "4E",
+    "duration": 1,
+    "voice": 1,
+    "note": "5F",
     "timestamp": 139.555556
 }, {
-    "beat": 159,
+    "beat": 157,
+    "duration": 2,
+    "voice": 5,
+    "note": "3A",
+    "timestamp": 139.555556
+}, {
+    "beat": 157,
+    "duration": 2,
+    "voice": 5,
+    "note": "4C",
+    "timestamp": 139.555556
+}, {
+    "beat": 157,
+    "duration": 2,
+    "voice": 5,
     "note": "4F",
+    "timestamp": 139.555556
+}, {
+    "beat": 158,
+    "duration": 1,
+    "voice": 1,
+    "note": "5C",
+    "timestamp": 140.444444
+}, {
+    "beat": 159,
+    "duration": 1,
+    "voice": 1,
+    "note": "4B",
     "timestamp": 141.333333
 }, {
     "beat": 159,
-    "note": "2F",
+    "duration": 3,
+    "voice": 6,
+    "note": "2G",
     "timestamp": 141.333333
 }, {
     "beat": 160,
-    "note": "3D",
+    "duration": 1,
+    "voice": 1,
+    "note": "5C",
     "timestamp": 142.222222
 }, {
-    "beat": 162,
-    "note": "3G",
-    "timestamp": 144.0
-}, {
-    "beat": 162,
-    "note": "4F",
-    "timestamp": 144.0
-}, {
-    "beat": 162,
-    "note": "1B",
-    "timestamp": 144.0
-}, {
-    "beat": 164,
+    "beat": 160,
+    "duration": 2,
+    "voice": 5,
     "note": "3B",
-    "timestamp": 145.777778
+    "timestamp": 142.222222
+}, {
+    "beat": 160,
+    "duration": 2,
+    "voice": 5,
+    "note": "4D",
+    "timestamp": 142.222222
+}, {
+    "beat": 160,
+    "duration": 2,
+    "voice": 5,
+    "note": "4F",
+    "timestamp": 142.222222
+}, {
+    "beat": 161,
+    "duration": 1,
+    "voice": 1,
+    "note": "5D",
+    "timestamp": 143.111111
+}, {
+    "beat": 162,
+    "duration": 3,
+    "voice": 1,
+    "note": "4A",
+    "timestamp": 144.0
+}, {
+    "beat": 162,
+    "duration": 3,
+    "voice": 6,
+    "note": "2D",
+    "timestamp": 144.0
+}, {
+    "beat": 163,
+    "duration": 2,
+    "voice": 5,
+    "note": "3A",
+    "timestamp": 144.888889
+}, {
+    "beat": 163,
+    "duration": 2,
+    "voice": 5,
+    "note": "4C",
+    "timestamp": 144.888889
+}, {
+    "beat": 163,
+    "duration": 2,
+    "voice": 5,
+    "note": "4F",
+    "timestamp": 144.888889
 }, {
     "beat": 165,
-    "note": "4F",
+    "duration": 3,
+    "voice": 1,
+    "note": "5C",
     "timestamp": 146.666667
 }, {
     "beat": 165,
-    "note": "2E",
+    "duration": 3,
+    "voice": 6,
+    "note": "2F",
     "timestamp": 146.666667
 }, {
     "beat": 166,
-    "note": "4E",
+    "duration": 2,
+    "voice": 5,
+    "note": "3A",
+    "timestamp": 147.555556
+}, {
+    "beat": 166,
+    "duration": 2,
+    "voice": 5,
+    "note": "4C",
+    "timestamp": 147.555556
+}, {
+    "beat": 166,
+    "duration": 2,
+    "voice": 5,
+    "note": "4F",
     "timestamp": 147.555556
 }, {
     "beat": 168,
-    "note": "4F",
+    "duration": 3,
+    "voice": 1,
+    "note": "5F",
     "timestamp": 149.333333
 }, {
     "beat": 168,
-    "note": "2E",
+    "duration": 3,
+    "voice": 6,
+    "note": "1B",
     "timestamp": 149.333333
 }, {
     "beat": 169,
-    "note": "3C",
+    "duration": 2,
+    "voice": 5,
+    "note": "3B",
+    "timestamp": 150.222222
+}, {
+    "beat": 169,
+    "duration": 2,
+    "voice": 5,
+    "note": "4D",
+    "timestamp": 150.222222
+}, {
+    "beat": 169,
+    "duration": 2,
+    "voice": 5,
+    "note": "4F",
     "timestamp": 150.222222
 }, {
     "beat": 171,
-    "note": "3E",
+    "duration": 3,
+    "voice": 1,
+    "note": "4E",
     "timestamp": 152.0
 }, {
     "beat": 171,
-    "note": "2D",
+    "duration": 3,
+    "voice": 6,
+    "note": "2E",
     "timestamp": 152.0
 }, {
     "beat": 172,
-    "note": "5F",
+    "duration": 2,
+    "voice": 5,
+    "note": "3G",
     "timestamp": 152.888889
 }, {
-    "beat": 173,
-    "note": "3A",
-    "timestamp": 153.777778
-}, {
-    "beat": 173,
-    "note": "5A",
-    "timestamp": 153.777778
+    "beat": 172,
+    "duration": 2,
+    "voice": 5,
+    "note": "3B",
+    "timestamp": 152.888889
 }, {
     "beat": 174,
-    "note": "5G",
+    "duration": 3,
+    "voice": 1,
+    "note": "4E",
     "timestamp": 154.666667
 }, {
     "beat": 174,
-    "note": "1A",
+    "duration": 3,
+    "voice": 6,
+    "note": "2E",
     "timestamp": 154.666667
 }, {
     "beat": 175,
+    "duration": 2,
+    "voice": 5,
+    "note": "3B",
+    "timestamp": 155.555556
+}, {
+    "beat": 175,
+    "duration": 2,
+    "voice": 5,
     "note": "4D",
     "timestamp": 155.555556
 }, {
     "beat": 175,
-    "note": "5F",
+    "duration": 2,
+    "voice": 5,
+    "note": "4G",
     "timestamp": 155.555556
 }, {
-    "beat": 176,
-    "note": "5C",
-    "timestamp": 156.444444
-}, {
     "beat": 177,
-    "note": "4B",
+    "duration": 3,
+    "voice": 1,
+    "note": "4E",
     "timestamp": 157.333333
 }, {
     "beat": 177,
+    "duration": 3,
+    "voice": 6,
     "note": "2D",
     "timestamp": 157.333333
 }, {
     "beat": 178,
-    "note": "3C",
+    "duration": 2,
+    "voice": 5,
+    "note": "3F",
     "timestamp": 158.222222
 }, {
     "beat": 178,
-    "note": "5C",
+    "duration": 2,
+    "voice": 5,
+    "note": "3A",
     "timestamp": 158.222222
 }, {
-    "beat": 179,
-    "note": "5D",
-    "timestamp": 159.111111
+    "beat": 178,
+    "duration": 2,
+    "voice": 5,
+    "note": "4D",
+    "timestamp": 158.222222
 }, {
     "beat": 180,
-    "note": "3F",
-    "timestamp": 160.0
-}, {
-    "beat": 180,
+    "duration": 1,
+    "voice": 1,
     "note": "4A",
     "timestamp": 160.0
 }, {
     "beat": 180,
-    "note": "2D",
+    "duration": 3,
+    "voice": 6,
+    "note": "1A",
     "timestamp": 160.0
 }, {
-    "beat": 182,
+    "beat": 181,
+    "duration": 1,
+    "voice": 1,
+    "note": "4B",
+    "timestamp": 160.888889
+}, {
+    "beat": 181,
+    "duration": 2,
+    "voice": 5,
     "note": "3A",
+    "timestamp": 160.888889
+}, {
+    "beat": 181,
+    "duration": 2,
+    "voice": 5,
+    "note": "4C",
+    "timestamp": 160.888889
+}, {
+    "beat": 181,
+    "duration": 2,
+    "voice": 5,
+    "note": "4E",
+    "timestamp": 160.888889
+}, {
+    "beat": 182,
+    "duration": 1,
+    "voice": 1,
+    "note": "5C",
     "timestamp": 161.777778
 }, {
     "beat": 183,
-    "note": "5C",
+    "duration": 1,
+    "voice": 1,
+    "note": "5E",
     "timestamp": 162.666667
 }, {
     "beat": 183,
+    "duration": 3,
+    "voice": 6,
     "note": "2D",
     "timestamp": 162.666667
 }, {
     "beat": 184,
-    "note": "4D",
+    "duration": 1,
+    "voice": 1,
+    "note": "5D",
     "timestamp": 163.555556
 }, {
+    "beat": 184,
+    "duration": 2,
+    "voice": 5,
+    "note": "3G",
+    "timestamp": 163.555556
+}, {
+    "beat": 184,
+    "duration": 2,
+    "voice": 5,
+    "note": "3B",
+    "timestamp": 163.555556
+}, {
+    "beat": 184,
+    "duration": 2,
+    "voice": 5,
+    "note": "4E",
+    "timestamp": 163.555556
+}, {
+    "beat": 185,
+    "duration": 1,
+    "voice": 1,
+    "note": "4B",
+    "timestamp": 164.444444
+}, {
     "beat": 186,
-    "note": "5F",
+    "duration": 1,
+    "voice": 1,
+    "note": "5D",
     "timestamp": 165.333333
 }, {
     "beat": 186,
+    "duration": 3,
+    "voice": 6,
     "note": "2D",
     "timestamp": 165.333333
 }, {
     "beat": 187,
-    "note": "3A",
+    "duration": 1,
+    "voice": 1,
+    "note": "5C",
     "timestamp": 166.222222
 }, {
-    "beat": 189,
-    "note": "4C",
-    "timestamp": 168.0
+    "beat": 187,
+    "duration": 2,
+    "voice": 5,
+    "note": "3D",
+    "timestamp": 166.222222
 }, {
-    "beat": 189,
+    "beat": 187,
+    "duration": 2,
+    "voice": 5,
+    "note": "3G",
+    "timestamp": 166.222222
+}, {
+    "beat": 187,
+    "duration": 2,
+    "voice": 5,
+    "note": "3B",
+    "timestamp": 166.222222
+}, {
+    "beat": 187,
+    "duration": 2,
+    "voice": 5,
     "note": "4E",
+    "timestamp": 166.222222
+}, {
+    "beat": 188,
+    "duration": 1,
+    "voice": 1,
+    "note": "4B",
+    "timestamp": 167.111111
+}, {
+    "beat": 189,
+    "duration": 3,
+    "voice": 1,
+    "note": "5D",
     "timestamp": 168.0
 }, {
     "beat": 189,
+    "duration": 3,
+    "voice": 6,
     "note": "2D",
     "timestamp": 168.0
 }, {
-    "beat": 191,
-    "note": "4F",
-    "timestamp": 169.777778
+    "beat": 190,
+    "duration": 2,
+    "voice": 5,
+    "note": "3C",
+    "timestamp": 168.888889
+}, {
+    "beat": 190,
+    "duration": 2,
+    "voice": 5,
+    "note": "3E",
+    "timestamp": 168.888889
+}, {
+    "beat": 190,
+    "duration": 2,
+    "voice": 5,
+    "note": "3A",
+    "timestamp": 168.888889
+}, {
+    "beat": 190,
+    "duration": 2,
+    "voice": 5,
+    "note": "4D",
+    "timestamp": 168.888889
 }, {
     "beat": 192,
-    "note": "4E",
+    "duration": 2,
+    "voice": 1,
+    "note": "5D",
     "timestamp": 170.666667
 }, {
     "beat": 192,
+    "duration": 3,
+    "voice": 6,
     "note": "2D",
     "timestamp": 170.666667
+}, {
+    "beat": 193,
+    "duration": 2,
+    "voice": 5,
+    "note": "3C",
+    "timestamp": 171.555556
+}, {
+    "beat": 193,
+    "duration": 2,
+    "voice": 5,
+    "note": "3F",
+    "timestamp": 171.555556
+}, {
+    "beat": 193,
+    "duration": 2,
+    "voice": 5,
+    "note": "3A",
+    "timestamp": 171.555556
+}, {
+    "beat": 193,
+    "duration": 2,
+    "voice": 5,
+    "note": "4D",
+    "timestamp": 171.555556
 }, {
     "beat": 194,
-    "note": "3A",
+    "duration": 1,
+    "voice": 1,
+    "note": "5D",
     "timestamp": 172.444444
 }, {
     "beat": 195,
-    "note": "4E",
+    "duration": 1,
+    "voice": 1,
+    "note": "5E",
     "timestamp": 173.333333
 }, {
     "beat": 195,
+    "duration": 3,
+    "voice": 6,
     "note": "2D",
     "timestamp": 173.333333
 }, {
     "beat": 196,
+    "duration": 1,
+    "voice": 1,
+    "note": "5F",
+    "timestamp": 174.222222
+}, {
+    "beat": 196,
+    "duration": 2,
+    "voice": 5,
+    "note": "3A",
+    "timestamp": 174.222222
+}, {
+    "beat": 196,
+    "duration": 2,
+    "voice": 5,
     "note": "4C",
     "timestamp": 174.222222
 }, {
+    "beat": 196,
+    "duration": 2,
+    "voice": 5,
+    "note": "4F",
+    "timestamp": 174.222222
+}, {
+    "beat": 197,
+    "duration": 1,
+    "voice": 1,
+    "note": "5G",
+    "timestamp": 175.111111
+}, {
     "beat": 198,
-    "note": "4E",
+    "duration": 1,
+    "voice": 1,
+    "note": "5A",
     "timestamp": 176.0
 }, {
     "beat": 198,
-    "note": "4A",
-    "timestamp": 176.0
-}, {
-    "beat": 198,
+    "duration": 3,
+    "voice": 6,
     "note": "2D",
     "timestamp": 176.0
 }, {
     "beat": 199,
-    "note": "4B",
+    "duration": 1,
+    "voice": 1,
+    "note": "5C",
+    "timestamp": 176.888889
+}, {
+    "beat": 199,
+    "duration": 2,
+    "voice": 5,
+    "note": "3A",
+    "timestamp": 176.888889
+}, {
+    "beat": 199,
+    "duration": 2,
+    "voice": 5,
+    "note": "4C",
+    "timestamp": 176.888889
+}, {
+    "beat": 199,
+    "duration": 2,
+    "voice": 5,
+    "note": "4E",
     "timestamp": 176.888889
 }, {
     "beat": 200,
-    "note": "5C",
+    "duration": 1,
+    "voice": 1,
+    "note": "5D",
     "timestamp": 177.777778
 }, {
     "beat": 201,
-    "note": "3D",
-    "timestamp": 178.666667
-}, {
-    "beat": 201,
+    "duration": 1,
+    "voice": 1,
     "note": "5E",
     "timestamp": 178.666667
 }, {
     "beat": 201,
+    "duration": 3,
+    "voice": 6,
     "note": "2D",
     "timestamp": 178.666667
 }, {
     "beat": 202,
+    "duration": 1,
+    "voice": 1,
     "note": "5D",
     "timestamp": 179.555556
 }, {
-    "beat": 203,
+    "beat": 202,
+    "duration": 2,
+    "voice": 5,
+    "note": "3D",
+    "timestamp": 179.555556
+}, {
+    "beat": 202,
+    "duration": 2,
+    "voice": 5,
     "note": "3G",
-    "timestamp": 180.444444
+    "timestamp": 179.555556
+}, {
+    "beat": 202,
+    "duration": 2,
+    "voice": 5,
+    "note": "3B",
+    "timestamp": 179.555556
+}, {
+    "beat": 202,
+    "duration": 2,
+    "voice": 5,
+    "note": "4E",
+    "timestamp": 179.555556
 }, {
     "beat": 203,
+    "duration": 1,
+    "voice": 1,
     "note": "4B",
     "timestamp": 180.444444
 }, {
     "beat": 204,
+    "duration": 3,
+    "voice": 1,
     "note": "5D",
     "timestamp": 181.333333
 }, {
     "beat": 204,
-    "note": "2E",
+    "duration": 3,
+    "voice": 6,
+    "note": "2D",
     "timestamp": 181.333333
 }, {
     "beat": 205,
-    "note": "3B",
+    "duration": 2,
+    "voice": 5,
+    "note": "3C",
     "timestamp": 182.222222
 }, {
     "beat": 205,
-    "note": "5C",
+    "duration": 2,
+    "voice": 5,
+    "note": "3E",
     "timestamp": 182.222222
 }, {
-    "beat": 206,
-    "note": "4B",
-    "timestamp": 183.111111
+    "beat": 205,
+    "duration": 2,
+    "voice": 5,
+    "note": "3A",
+    "timestamp": 182.222222
+}, {
+    "beat": 205,
+    "duration": 2,
+    "voice": 5,
+    "note": "4D",
+    "timestamp": 182.222222
 }, {
     "beat": 207,
-    "note": "4E",
-    "timestamp": 184.0
-}, {
-    "beat": 207,
+    "duration": 2,
+    "voice": 1,
     "note": "5D",
     "timestamp": 184.0
 }, {
     "beat": 207,
-    "note": "2E",
+    "duration": 3,
+    "voice": 6,
+    "note": "2D",
     "timestamp": 184.0
 }, {
-    "beat": 210,
+    "beat": 208,
+    "duration": 2,
+    "voice": 5,
     "note": "3C",
-    "timestamp": 186.666667
+    "timestamp": 184.888889
 }, {
-    "beat": 210,
+    "beat": 208,
+    "duration": 2,
+    "voice": 5,
+    "note": "3F",
+    "timestamp": 184.888889
+}, {
+    "beat": 208,
+    "duration": 2,
+    "voice": 5,
+    "note": "3A",
+    "timestamp": 184.888889
+}, {
+    "beat": 208,
+    "duration": 2,
+    "voice": 5,
+    "note": "4D",
+    "timestamp": 184.888889
+}, {
+    "beat": 209,
+    "duration": 1,
+    "voice": 1,
     "note": "5D",
+    "timestamp": 185.777778
+}, {
+    "beat": 210,
+    "duration": 3,
+    "voice": 1,
+    "note": "5G",
     "timestamp": 186.666667
 }, {
     "beat": 210,
+    "duration": 3,
+    "voice": 6,
     "note": "2E",
     "timestamp": 186.666667
 }, {
-    "beat": 212,
-    "note": "3E",
-    "timestamp": 188.444444
+    "beat": 211,
+    "duration": 2,
+    "voice": 5,
+    "note": "3B",
+    "timestamp": 187.555556
 }, {
-    "beat": 212,
-    "note": "5D",
-    "timestamp": 188.444444
+    "beat": 211,
+    "duration": 2,
+    "voice": 5,
+    "note": "4E",
+    "timestamp": 187.555556
+}, {
+    "beat": 211,
+    "duration": 2,
+    "voice": 5,
+    "note": "4G",
+    "timestamp": 187.555556
 }, {
     "beat": 213,
-    "note": "5E",
+    "duration": 3,
+    "voice": 1,
+    "note": "5F",
     "timestamp": 189.333333
 }, {
     "beat": 213,
+    "duration": 3,
+    "voice": 6,
     "note": "2E",
     "timestamp": 189.333333
 }, {
     "beat": 214,
+    "duration": 2,
+    "voice": 5,
     "note": "3A",
     "timestamp": 190.222222
 }, {
     "beat": 214,
-    "note": "5F",
+    "duration": 2,
+    "voice": 5,
+    "note": "4D",
     "timestamp": 190.222222
 }, {
-    "beat": 215,
-    "note": "5G",
-    "timestamp": 191.111111
+    "beat": 214,
+    "duration": 2,
+    "voice": 5,
+    "note": "4F",
+    "timestamp": 190.222222
+}, {
+    "beat": 214,
+    "duration": 2,
+    "voice": 5,
+    "note": "4A",
+    "timestamp": 190.222222
 }, {
     "beat": 216,
-    "note": "4D",
+    "duration": 1,
+    "voice": 1,
+    "note": "4B",
     "timestamp": 192.0
 }, {
     "beat": 216,
-    "note": "5A",
-    "timestamp": 192.0
-}, {
-    "beat": 216,
+    "duration": 3,
+    "voice": 6,
     "note": "2E",
     "timestamp": 192.0
 }, {
     "beat": 217,
+    "duration": 1,
+    "voice": 1,
     "note": "5C",
     "timestamp": 192.888889
 }, {
+    "beat": 217,
+    "duration": 2,
+    "voice": 5,
+    "note": "3A",
+    "timestamp": 192.888889
+}, {
+    "beat": 217,
+    "duration": 2,
+    "voice": 5,
+    "note": "4C",
+    "timestamp": 192.888889
+}, {
+    "beat": 217,
+    "duration": 2,
+    "voice": 5,
+    "note": "4F",
+    "timestamp": 192.888889
+}, {
     "beat": 218,
-    "note": "5D",
+    "duration": 1,
+    "voice": 1,
+    "note": "5F",
     "timestamp": 193.777778
 }, {
     "beat": 219,
-    "note": "3C",
-    "timestamp": 194.666667
-}, {
-    "beat": 219,
+    "duration": 1,
+    "voice": 1,
     "note": "5E",
     "timestamp": 194.666667
 }, {
     "beat": 219,
+    "duration": 3,
+    "voice": 6,
     "note": "2E",
     "timestamp": 194.666667
 }, {
     "beat": 220,
+    "duration": 1,
+    "voice": 1,
     "note": "5D",
     "timestamp": 195.555556
 }, {
-    "beat": 221,
-    "note": "3F",
-    "timestamp": 196.444444
+    "beat": 220,
+    "duration": 2,
+    "voice": 5,
+    "note": "4C",
+    "timestamp": 195.555556
+}, {
+    "beat": 220,
+    "duration": 2,
+    "voice": 5,
+    "note": "4E",
+    "timestamp": 195.555556
+}, {
+    "beat": 220,
+    "duration": 2,
+    "voice": 5,
+    "note": "4A",
+    "timestamp": 195.555556
 }, {
     "beat": 221,
-    "note": "4B",
+    "duration": 1,
+    "voice": 1,
+    "note": "5C",
     "timestamp": 196.444444
 }, {
     "beat": 222,
-    "note": "5D",
+    "duration": 1,
+    "voice": 1,
+    "note": "5E",
+    "timestamp": 197.333333
+}, {
+    "beat": 222,
+    "duration": 3,
+    "voice": 6,
+    "note": "2E",
     "timestamp": 197.333333
 }, {
     "beat": 223,
+    "duration": 1,
+    "voice": 1,
+    "note": "5D",
+    "timestamp": 198.222222
+}, {
+    "beat": 223,
+    "duration": 2,
+    "voice": 5,
     "note": "3A",
     "timestamp": 198.222222
 }, {
+    "beat": 223,
+    "duration": 2,
+    "voice": 5,
+    "note": "4C",
+    "timestamp": 198.222222
+}, {
+    "beat": 223,
+    "duration": 2,
+    "voice": 5,
+    "note": "4F",
+    "timestamp": 198.222222
+}, {
+    "beat": 223,
+    "duration": 2,
+    "voice": 5,
+    "note": "4A",
+    "timestamp": 198.222222
+}, {
+    "beat": 224,
+    "duration": 1,
+    "voice": 1,
+    "note": "5C",
+    "timestamp": 199.111111
+}, {
     "beat": 225,
-    "note": "4D",
+    "duration": 3,
+    "voice": 1,
+    "note": "4F",
     "timestamp": 200.0
 }, {
     "beat": 225,
-    "note": "5D",
+    "duration": 3,
+    "voice": 6,
+    "note": "2E",
     "timestamp": 200.0
+}, {
+    "beat": 226,
+    "duration": 1,
+    "voice": 2,
+    "note": "3A",
+    "timestamp": 200.888889
+}, {
+    "beat": 226,
+    "duration": 1,
+    "voice": 2,
+    "note": "4D",
+    "timestamp": 200.888889
+}, {
+    "beat": 226,
+    "duration": 1,
+    "voice": 5,
+    "note": "2B",
+    "timestamp": 200.888889
 }, {
     "beat": 227,
-    "note": "5D",
+    "duration": 1,
+    "voice": 2,
+    "note": "3B",
+    "timestamp": 201.777778
+}, {
+    "beat": 227,
+    "duration": 1,
+    "voice": 2,
+    "note": "4D",
+    "timestamp": 201.777778
+}, {
+    "beat": 227,
+    "duration": 1,
+    "voice": 2,
+    "note": "4G",
+    "timestamp": 201.777778
+}, {
+    "beat": 227,
+    "duration": 1,
+    "voice": 5,
+    "note": "3E",
     "timestamp": 201.777778
 }, {
     "beat": 228,
-    "note": "3B",
+    "duration": 3,
+    "voice": 1,
+    "note": "4C",
     "timestamp": 202.666667
 }, {
     "beat": 228,
-    "note": "5G",
+    "duration": 3,
+    "voice": 1,
+    "note": "4E",
     "timestamp": 202.666667
 }, {
-    "beat": 230,
-    "note": "4E",
-    "timestamp": 204.444444
+    "beat": 228,
+    "duration": 3,
+    "voice": 1,
+    "note": "4A",
+    "timestamp": 202.666667
+}, {
+    "beat": 228,
+    "duration": 3,
+    "voice": 1,
+    "note": "5C",
+    "timestamp": 202.666667
+}, {
+    "beat": 228,
+    "duration": 3,
+    "voice": 5,
+    "note": "2A",
+    "timestamp": 202.666667
+}, {
+    "beat": 228,
+    "duration": 3,
+    "voice": 5,
+    "note": "3G",
+    "timestamp": 202.666667
 }, {
     "beat": 231,
-    "note": "5F",
+    "duration": 3,
+    "voice": 1,
+    "note": "4D",
     "timestamp": 205.333333
 }, {
-    "beat": 232,
-    "note": "4G",
-    "timestamp": 206.222222
+    "beat": 231,
+    "duration": 3,
+    "voice": 1,
+    "note": "4F",
+    "timestamp": 205.333333
 }, {
-    "beat": 234,
-    "note": "4B",
-    "timestamp": 208.0
+    "beat": 231,
+    "duration": 3,
+    "voice": 1,
+    "note": "4A",
+    "timestamp": 205.333333
 }, {
-    "beat": 235,
-    "note": "3A",
-    "timestamp": 208.888889
-}, {
-    "beat": 235,
-    "note": "5C",
-    "timestamp": 208.888889
-}, {
-    "beat": 236,
-    "note": "5F",
-    "timestamp": 209.777778
-}, {
-    "beat": 237,
-    "note": "4C",
-    "timestamp": 210.666667
-}, {
-    "beat": 237,
-    "note": "5E",
-    "timestamp": 210.666667
-}, {
-    "beat": 238,
+    "beat": 231,
+    "duration": 3,
+    "voice": 1,
     "note": "5D",
-    "timestamp": 211.555556
+    "timestamp": 205.333333
 }, {
-    "beat": 239,
-    "note": "4F",
-    "timestamp": 212.444444
-}, {
-    "beat": 239,
-    "note": "5C",
-    "timestamp": 212.444444
-}, {
-    "beat": 240,
-    "note": "5E",
-    "timestamp": 213.333333
-}, {
-    "beat": 241,
-    "note": "5D",
-    "timestamp": 214.222222
-}, {
-    "beat": 242,
-    "note": "3B",
-    "timestamp": 215.111111
-}, {
-    "beat": 242,
-    "note": "5C",
-    "timestamp": 215.111111
-}, {
-    "beat": 243,
-    "note": "4F",
-    "timestamp": 216.0
-}, {
-    "beat": 244,
-    "note": "4D",
-    "timestamp": 216.888889
-}, {
-    "beat": 246,
-    "note": "4F",
-    "timestamp": 218.666667
-}, {
-    "beat": 246,
-    "note": "4C",
-    "timestamp": 218.666667
-}, {
-    "beat": 249,
-    "note": "4C",
-    "timestamp": 221.333333
-}, {
-    "beat": 249,
-    "note": "4E",
-    "timestamp": 221.333333
-}, {
-    "beat": 251,
-    "note": "4E",
-    "timestamp": 223.111111
-}, {
-    "beat": 252,
-    "note": "4A",
-    "timestamp": 224.0
-}, {
-    "beat": 253,
-    "note": "4A",
-    "timestamp": 224.888889
-}, {
-    "beat": 255,
-    "note": "5C",
-    "timestamp": 226.666667
-}, {
-    "beat": 256,
-    "note": "3A",
-    "timestamp": 227.555556
-}, {
-    "beat": 258,
-    "note": "4C",
-    "timestamp": 229.333333
-}, {
-    "beat": 258,
-    "note": "4D",
-    "timestamp": 229.333333
-}, {
-    "beat": 260,
-    "note": "4F",
-    "timestamp": 231.111111
-}, {
-    "beat": 261,
-    "note": "4F",
-    "timestamp": 232.0
-}, {
-    "beat": 262,
-    "note": "4A",
-    "timestamp": 232.888889
-}, {
-    "beat": 264,
-    "note": "4A",
-    "timestamp": 234.666667
-}, {
-    "beat": 265,
-    "note": "2B",
-    "timestamp": 235.555556
-}, {
-    "beat": 266,
-    "note": "3E",
-    "timestamp": 236.444444
-}, {
-    "beat": 267,
-    "note": "2A",
-    "timestamp": 237.333333
-}, {
-    "beat": 267,
-    "note": "5D",
-    "timestamp": 237.333333
-}, {
-    "beat": 270,
-    "note": "3G",
-    "timestamp": 240.0
-}, {
-    "beat": 273,
+    "beat": 231,
+    "duration": 3,
+    "voice": 5,
     "note": "2D",
-    "timestamp": 242.666667
+    "timestamp": 205.333333
 }, {
-    "beat": 276,
+    "beat": 231,
+    "duration": 3,
+    "voice": 5,
     "note": "2A",
-    "timestamp": 245.333333
+    "timestamp": 205.333333
 }, {
-    "beat": 279,
+    "beat": 231,
+    "duration": 3,
+    "voice": 5,
     "note": "3D",
-    "timestamp": 248.0
-}, {
-    "beat": 283,
-    "note": "3B",
-    "timestamp": 251.555556
-}, {
-    "beat": 285,
-    "note": "4D",
-    "timestamp": 253.333333
-}, {
-    "beat": 287,
-    "note": "4F",
-    "timestamp": 255.111111
-}, {
-    "beat": 290,
-    "note": "3A",
-    "timestamp": 257.777778
-}, {
-    "beat": 292,
-    "note": "4C",
-    "timestamp": 259.555556
-}, {
-    "beat": 294,
-    "note": "4F",
-    "timestamp": 261.333333
-}, {
-    "beat": 297,
-    "note": "3B",
-    "timestamp": 264.0
-}, {
-    "beat": 299,
-    "note": "4D",
-    "timestamp": 265.777778
-}, {
-    "beat": 301,
-    "note": "4F",
-    "timestamp": 267.555556
-}, {
-    "beat": 304,
-    "note": "3A",
-    "timestamp": 270.222222
-}, {
-    "beat": 306,
-    "note": "4C",
-    "timestamp": 272.0
-}, {
-    "beat": 308,
-    "note": "4F",
-    "timestamp": 273.777778
-}, {
-    "beat": 311,
-    "note": "3B",
-    "timestamp": 276.444444
-}, {
-    "beat": 313,
-    "note": "4D",
-    "timestamp": 278.222222
-}, {
-    "beat": 315,
-    "note": "4F",
-    "timestamp": 280.0
-}, {
-    "beat": 318,
-    "note": "3A",
-    "timestamp": 282.666667
-}, {
-    "beat": 320,
-    "note": "4C",
-    "timestamp": 284.444444
-}, {
-    "beat": 322,
-    "note": "4F",
-    "timestamp": 286.222222
-}, {
-    "beat": 325,
-    "note": "3B",
-    "timestamp": 288.888889
-}, {
-    "beat": 327,
-    "note": "4D",
-    "timestamp": 290.666667
-}, {
-    "beat": 329,
-    "note": "4F",
-    "timestamp": 292.444444
-}, {
-    "beat": 332,
-    "note": "3A",
-    "timestamp": 295.111111
-}, {
-    "beat": 334,
-    "note": "4C",
-    "timestamp": 296.888889
-}, {
-    "beat": 336,
-    "note": "4F",
-    "timestamp": 298.666667
-}, {
-    "beat": 339,
-    "note": "3B",
-    "timestamp": 301.333333
-}, {
-    "beat": 341,
-    "note": "4D",
-    "timestamp": 303.111111
-}, {
-    "beat": 343,
-    "note": "4F",
-    "timestamp": 304.888889
-}, {
-    "beat": 346,
-    "note": "3A",
-    "timestamp": 307.555556
-}, {
-    "beat": 348,
-    "note": "4C",
-    "timestamp": 309.333333
-}, {
-    "beat": 350,
-    "note": "4F",
-    "timestamp": 311.111111
-}, {
-    "beat": 353,
-    "note": "3B",
-    "timestamp": 313.777778
-}, {
-    "beat": 355,
-    "note": "4D",
-    "timestamp": 315.555556
-}, {
-    "beat": 357,
-    "note": "4F",
-    "timestamp": 317.333333
-}, {
-    "beat": 360,
-    "note": "3A",
-    "timestamp": 320.0
-}, {
-    "beat": 362,
-    "note": "4C",
-    "timestamp": 321.777778
-}, {
-    "beat": 364,
-    "note": "4F",
-    "timestamp": 323.555556
-}, {
-    "beat": 367,
-    "note": "3B",
-    "timestamp": 326.222222
-}, {
-    "beat": 369,
-    "note": "4D",
-    "timestamp": 328.0
-}, {
-    "beat": 371,
-    "note": "4F",
-    "timestamp": 329.777778
-}, {
-    "beat": 374,
-    "note": "3A",
-    "timestamp": 332.444444
-}, {
-    "beat": 376,
-    "note": "4C",
-    "timestamp": 334.222222
-}, {
-    "beat": 378,
-    "note": "4F",
-    "timestamp": 336.0
-}, {
-    "beat": 381,
-    "note": "3B",
-    "timestamp": 338.666667
-}, {
-    "beat": 383,
-    "note": "4D",
-    "timestamp": 340.444444
-}, {
-    "beat": 385,
-    "note": "4F",
-    "timestamp": 342.222222
-}, {
-    "beat": 388,
-    "note": "3A",
-    "timestamp": 344.888889
-}, {
-    "beat": 390,
-    "note": "4C",
-    "timestamp": 346.666667
-}, {
-    "beat": 392,
-    "note": "4F",
-    "timestamp": 348.444444
-}, {
-    "beat": 395,
-    "note": "3A",
-    "timestamp": 351.111111
-}, {
-    "beat": 397,
-    "note": "4C",
-    "timestamp": 352.888889
-}, {
-    "beat": 399,
-    "note": "4F",
-    "timestamp": 354.666667
-}, {
-    "beat": 402,
-    "note": "3B",
-    "timestamp": 357.333333
-}, {
-    "beat": 404,
-    "note": "4D",
-    "timestamp": 359.111111
-}, {
-    "beat": 406,
-    "note": "4F",
-    "timestamp": 360.888889
-}, {
-    "beat": 409,
-    "note": "3G",
-    "timestamp": 363.555556
-}, {
-    "beat": 411,
-    "note": "3B",
-    "timestamp": 365.333333
-}, {
-    "beat": 414,
-    "note": "3B",
-    "timestamp": 368.0
-}, {
-    "beat": 416,
-    "note": "4D",
-    "timestamp": 369.777778
-}, {
-    "beat": 418,
-    "note": "4G",
-    "timestamp": 371.555556
-}, {
-    "beat": 421,
-    "note": "3F",
-    "timestamp": 374.222222
-}, {
-    "beat": 423,
-    "note": "3A",
-    "timestamp": 376.0
-}, {
-    "beat": 425,
-    "note": "4D",
-    "timestamp": 377.777778
-}, {
-    "beat": 428,
-    "note": "3A",
-    "timestamp": 380.444444
-}, {
-    "beat": 430,
-    "note": "4C",
-    "timestamp": 382.222222
-}, {
-    "beat": 432,
-    "note": "4E",
-    "timestamp": 384.0
-}, {
-    "beat": 435,
-    "note": "3G",
-    "timestamp": 386.666667
-}, {
-    "beat": 437,
-    "note": "3B",
-    "timestamp": 388.444444
-}, {
-    "beat": 439,
-    "note": "4E",
-    "timestamp": 390.222222
-}, {
-    "beat": 442,
-    "note": "3D",
-    "timestamp": 392.888889
-}, {
-    "beat": 444,
-    "note": "3G",
-    "timestamp": 394.666667
-}, {
-    "beat": 446,
-    "note": "3B",
-    "timestamp": 396.444444
-}, {
-    "beat": 448,
-    "note": "4E",
-    "timestamp": 398.222222
-}, {
-    "beat": 451,
-    "note": "3C",
-    "timestamp": 400.888889
-}, {
-    "beat": 453,
-    "note": "3E",
-    "timestamp": 402.666667
-}, {
-    "beat": 455,
-    "note": "3A",
-    "timestamp": 404.444444
-}, {
-    "beat": 457,
-    "note": "4D",
-    "timestamp": 406.222222
-}, {
-    "beat": 460,
-    "note": "3C",
-    "timestamp": 408.888889
-}, {
-    "beat": 462,
-    "note": "3F",
-    "timestamp": 410.666667
-}, {
-    "beat": 464,
-    "note": "3A",
-    "timestamp": 412.444444
-}, {
-    "beat": 466,
-    "note": "4D",
-    "timestamp": 414.222222
-}, {
-    "beat": 469,
-    "note": "3A",
-    "timestamp": 416.888889
-}, {
-    "beat": 471,
-    "note": "4C",
-    "timestamp": 418.666667
-}, {
-    "beat": 473,
-    "note": "4F",
-    "timestamp": 420.444444
-}, {
-    "beat": 476,
-    "note": "3A",
-    "timestamp": 423.111111
-}, {
-    "beat": 478,
-    "note": "4C",
-    "timestamp": 424.888889
-}, {
-    "beat": 480,
-    "note": "4E",
-    "timestamp": 426.666667
-}, {
-    "beat": 483,
-    "note": "3D",
-    "timestamp": 429.333333
-}, {
-    "beat": 485,
-    "note": "3G",
-    "timestamp": 431.111111
-}, {
-    "beat": 487,
-    "note": "3B",
-    "timestamp": 432.888889
-}, {
-    "beat": 489,
-    "note": "4E",
-    "timestamp": 434.666667
-}, {
-    "beat": 492,
-    "note": "3C",
-    "timestamp": 437.333333
-}, {
-    "beat": 494,
-    "note": "3E",
-    "timestamp": 439.111111
-}, {
-    "beat": 496,
-    "note": "3A",
-    "timestamp": 440.888889
-}, {
-    "beat": 498,
-    "note": "4D",
-    "timestamp": 442.666667
-}, {
-    "beat": 501,
-    "note": "3C",
-    "timestamp": 445.333333
-}, {
-    "beat": 503,
-    "note": "3F",
-    "timestamp": 447.111111
-}, {
-    "beat": 505,
-    "note": "3A",
-    "timestamp": 448.888889
-}, {
-    "beat": 507,
-    "note": "4D",
-    "timestamp": 450.666667
-}, {
-    "beat": 510,
-    "note": "3B",
-    "timestamp": 453.333333
-}, {
-    "beat": 512,
-    "note": "4E",
-    "timestamp": 455.111111
-}, {
-    "beat": 514,
-    "note": "4G",
-    "timestamp": 456.888889
-}, {
-    "beat": 517,
-    "note": "3A",
-    "timestamp": 459.555556
-}, {
-    "beat": 519,
-    "note": "4D",
-    "timestamp": 461.333333
-}, {
-    "beat": 521,
-    "note": "4F",
-    "timestamp": 463.111111
-}, {
-    "beat": 523,
-    "note": "4A",
-    "timestamp": 464.888889
-}, {
-    "beat": 526,
-    "note": "3A",
-    "timestamp": 467.555556
-}, {
-    "beat": 528,
-    "note": "4C",
-    "timestamp": 469.333333
-}, {
-    "beat": 530,
-    "note": "4F",
-    "timestamp": 471.111111
-}, {
-    "beat": 533,
-    "note": "4C",
-    "timestamp": 473.777778
-}, {
-    "beat": 535,
-    "note": "4E",
-    "timestamp": 475.555556
-}, {
-    "beat": 537,
-    "note": "4A",
-    "timestamp": 477.333333
-}, {
-    "beat": 540,
-    "note": "3A",
-    "timestamp": 480.0
-}, {
-    "beat": 542,
-    "note": "4C",
-    "timestamp": 481.777778
-}, {
-    "beat": 544,
-    "note": "4F",
-    "timestamp": 483.555556
-}, {
-    "beat": 546,
-    "note": "4A",
-    "timestamp": 485.333333
-}, {
-    "beat": 549,
-    "note": "2B",
-    "timestamp": 488.0
-}, {
-    "beat": 550,
-    "note": "3E",
-    "timestamp": 488.888889
-}, {
-    "beat": 551,
-    "note": "2A",
-    "timestamp": 489.777778
-}, {
-    "beat": 554,
-    "note": "3G",
-    "timestamp": 492.444444
-}, {
-    "beat": 557,
-    "note": "2D",
-    "timestamp": 495.111111
-}, {
-    "beat": 560,
-    "note": "2A",
-    "timestamp": 497.777778
-}, {
-    "beat": 563,
-    "note": "3D",
-    "timestamp": 500.444444
+    "timestamp": 205.333333
 }]
