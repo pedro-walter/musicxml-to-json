@@ -35,7 +35,7 @@ for measure in root.findall('part/measure'):
                 'beat': this_loop_beat,
                 'duration': duration,
                 'voice': voice,
-                'note': note.find('pitch/octave').text + note.find('pitch/step').text,
+                'pitch': note.find('pitch/octave').text + note.find('pitch/step').text,
                 'timestamp': timedelta(seconds=float(seconds_per_beat * this_loop_beat)).total_seconds()
             }
             print(to_append)
